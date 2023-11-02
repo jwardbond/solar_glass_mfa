@@ -1,0 +1,215 @@
+project,year,tech,sol_cap,location,province,lat,lon,glass_weight
+Brooks 121S DER Solar 1,2022,Solar,13.0,"Brooks, Alberta, Canada",AB,50.56570929999999,-111.8977868,4900.999999999999
+Brooks 121S DER Solar 2,2022,Solar,14.0,"Brooks, Alberta, Canada",AB,50.56570929999999,-111.8977868,5277.999999999999
+Clydesdale 1&2,2022,Solar,75.0,"Taber, Alberta, Canada",AB,49.7818493,-112.1496791,28274.999999999996
+Coaldale 254S DER Solar 3 (Fortis),2022,Solar,22.5,"Lethbridge, Alberta, Canada",AB,49.6956181,-112.8451067,8482.499999999998
+Conrad DER Solar 1 (FortisAlberta),2022,Solar,18.4,"Vauxhall, Alberta, Canada",AB,50.0681915,-112.1056711,6936.799999999999
+Conrad DER Solar 2 (FortisAlberta),2022,Solar,18.0,"Vauxhall, Alberta, Canada",AB,50.0681915,-112.1056711,6785.999999999999
+Kisikaw-pisim 1 & 2,2022,Solar,13.6,"Enoch Cree Reserve land, Alberta, Canada",AB,53.4915101,-113.740295,5127.199999999999
+Monarch 492S DER Solar (Fortis),2022,Solar,23.6,"Lethbridge, Alberta, Canada",AB,49.6956181,-112.8451067,8897.199999999999
+Namaka Solar (East Strathmore Solar Project) (NMK1),2022,Solar,20.1,"Strathmore, Alberta, Canada",AB,51.037741,-113.4003335,7577.699999999999
+Strathmore Solar,2022,Solar,40.5,"Strathmore, Alberta, Canada",AB,51.037741,-113.4003335,15268.499999999998
+Travers Solar Project,2022,Solar,465.0,"Lomond, Alberta, Canada",AB,50.3500357,-112.6447523,175304.99999999997
+Vulcan Faribault Farms DG PV (Fortis 255S),2022,Solar,22.0,"Stavely, Alberta, Canada",AB,50.1615778,-113.6409669,8293.999999999998
+Kejimkujik National Park Solar Array,2022,Solar,0.1,"Kejimkujik, Nova Scotia, Canada",NS,44.3794759,-65.2355244,37.699999999999996
+Collaborative Grid Innovation for Atlantic Smart Energy Communities (Amherst),2022,Solar-Storage,2.0,"Amherst, Nova Scotia, Canada",NS,45.83443949999999,-64.21233939999999,753.9999999999999
+Awasis Solar,2022,Solar,10.0,"Regina, Saskatchewan, Canada",SK,50.4452112,-104.6188944,3769.9999999999995
+Alberta Solar One (Burdett 1),2021,Solar,10.5,"Burdet, Forty Mile County, Alberta, Canada",AB,49.8330849,-111.5213349,3958.4999999999995
+Burdett Solar Project,2021,Solar,20.0,"Burdet, Forty Mile County, Alberta, Canada",AB,49.8330849,-111.5213349,7539.999999999999
+Claresholm Solar project,2021,Solar,132.0,"Claresholm, Alberta, Canada",AB,50.0190792,-113.5840962,49763.99999999999
+Hays DG PV (Fortis 421S),2021,Solar,23.0,"Taber, Alberta, Canada",AB,49.7818493,-112.1496791,8670.999999999998
+Jenner Solar DER (Fortis 275S),2021,Solar,23.0,"Empress, Alberta, Canada",AB,50.9567309,-110.0080274,8670.999999999998
+Suffield Solar,2021,Solar,23.0,"Suffield, Alberta, Canada",AB,50.2192709,-111.1612545,8670.999999999998
+Yellow Lake Solar Project,2021,Solar,19.0,"Yellow Lake, Alberta, Canada",AB,49.7595438,-111.5216624,7162.999999999999
+Berwick (AREA),2021,Solar-Storage,4.8,"Berwick, Nova Scotia, Canada",NS,45.0455356,-64.7361374,1809.5999999999997
+Fort Severn Solar,2021,Solar,0.3,"Fort Severn, Ontario, Canada",ON,55.99066999999999,-87.63300269999999,113.09999999999998
+WEICAN R&D Park Phase 2,2021,Solar-Storage,0.1,"North Cape, Prince Edward Island, Canada",PE,47.0690719,-63.9985531,37.699999999999996
+Gabrielle-Bodis generating station (La Prairie),2021,Solar,8.0,"La Prairie, Quebec, Canada",QC,45.4159003,-73.4830021,3015.9999999999995
+Robert-A.-Boyd generating station (Varennes),2021,Solar,1.5,"Varennes, Quebec, Canada",QC,45.6810341,-73.43749729999999,565.4999999999999
+Highfield Solar Project,2021,Solar,10.0,"Swift Current, Saskatchewan, Canada",SK,50.285069,-107.7971722,3769.9999999999995
+Ocean Man Second Wind 1 and 2,2021,Solar,1.0,"Ocean Man, Saskatchewan, Canada",SK,52.9399159,-106.4508639,376.99999999999994
+Pesâkâstêw Solar Project,2021,Solar,10.0,"Weyburn, Saskatchewan, Canada",SK,49.6632836,-103.8532906,3769.9999999999995
+North Klondike Solar,2021,Solar,1.0,"Whitehorse, Yukon, Canada",YK,60.7197137,-135.0522761,376.99999999999994
+Old Crow Solar Project,2021,Solar-Storage,0.5,"Old Crow, Yukon, Canada",YK,67.5696339,-139.828784,188.49999999999997
+Hull Solar Farm (Prairie Light 2),2020,Solar,25.0,"Vauxhall, Alberta, Canada",AB,50.0681915,-112.1056711,9424.999999999998
+Innisfail Solar Project,2020,Solar,22.0,"Innisfail, Red Deer County, Alberta, Canada",AB,52.0274086,-113.9501267,8293.999999999998
+Montana First Nation Solar Project,2020,Solar,4.6,"Wetaskiwin, Alberta, Canada",AB,52.9687964,-113.3659284,1734.1999999999998
+Vauxhall Solar Farm (Prairie Light 3),2020,Solar,22.0,"Vauxhall , Alberta, Canada",AB,50.0681915,-112.1056711,8293.999999999998
+ATCO Fort Chipewyan Solar & Storage plus Three Nations Energy Solar Farm,2020,Solar-Storage,2.2,"Fort Chipewyan, Alberta, Canada",AB,58.71332839999999,-111.1574916,829.3999999999999
+Fisher River,2020,Solar,1.0,"Fisher River, Manitoba, Canada",MB,51.444681,-97.361255,376.99999999999994
+Tsilhqotin Solar Farms,2019,Solar-Storage,0.9,"Nemiah Valley, British Columbia, Canada",BC,51.48333299999999,-123.883333,336.78
+Barlow Solar Energy Centre,2019,Solar,10.0,"Cornwall, Ontario, Canada",ON,45.0212762,-74.730345,3742.0
+Loyalist Solar Project,2019,Solar,54.0,"Centreville, Ontario, Canada",ON,43.060749,-80.855921,20206.8
+Nanticoke Solar,2019,Solar,44.0,"Nanticoke, Ontario, Canada",ON,42.80907,-80.08228299999999,16464.8
+Pendleton Solar Energy Centre,2019,Solar,12.0,"Curran, Ontario, Canada",ON,45.494226,-74.994688,4490.4
+Université de Sherbrooke Solar Park,2019,Solar,1.0,"Université de Sherbrooke, Quebec, Canada",QC,45.4042669,-71.89367399999999,374.2
+Maple Creek Solar 1,2019,Solar,0.1,"Maple Creek, Saskatchewan, Canada",SK,49.906595,-109.480174,37.42
+Maple Creek Solar 2,2019,Solar,0.1,"Maple Creek, Saskatchewan, Canada",SK,49.906595,-109.480174,37.42
+La Maison Simons Quebec City,2018,Solar,1.3,"Quebec City, Quebec, Canada",QC,46.8130816,-71.20745959999999,481.52
+Brooks 1,2017,Solar,15.0,"Brooks, Newell County, Alberta, Canada",AB,50.56570929999999,-111.8977868,5498.999999999999
+Lower Nicola Indian Band Merritt,2016,Solar,0.1,"Merritt, British Columbia, Canada",BC,50.1113079,-120.7862222,36.279999999999994
+HPG Site A,2016,Solar,2.0,"Bowmanville, Ontario, Canada",ON,43.9126042,-78.688019,725.5999999999999
+Southgate Solar,2016,Solar,50.0,"Holstein, Ontario, Canada",ON,44.0597897,-80.7598221,18139.999999999996
+Windsor Solar,2016,Solar,50.0,"Windsor, Ontario, Canada",ON,42.3149367,-83.03636329999999,18139.999999999996
+Green Acres - Bassano,2015,Solar,2.0,"Near Bassano, Alberta, Canada",AB,50.7903169,-112.4718323,718.0
+Sunmine,2015,Solar,1.05,"Sullivan Mine, Kimberley, British Columbia, Canada",BC,49.6882673,-115.9887157,376.95
+Alfred,2015,Solar,10.0,"Alfred, Ontario, Canada",ON,45.55860939999999,-74.8803744,3590.0
+Aria,2015,Solar,9.0,"Elmvale, Ontario, Canada",ON,44.5836295,-79.8660747,3231.0
+Balsam Lake,2015,Solar,3.0,"Coboconk, Ontario, Canada",ON,44.66080950000001,-78.80183939999999,1077.0
+BeamLight,2015,Solar,10.0,"Pefferlaw, Ontario, Canada",ON,44.31468599999999,-79.20273300000001,3590.0
+Black Bay 2,2015,Solar,1.0,"Red Rock, Ontario, Canada",ON,48.945248,-88.259433,359.0
+CityLights,2015,Solar,10.0,"Chesterville, Ontario, Canada",ON,45.10229409999999,-75.2287886,3590.0
+Dave Rampel Solar Park,2015,Solar,10.0,"Rainy River, Ontario, Canada",ON,48.7216623,-94.5695247,3590.0
+David Brown Solar Park,2015,Solar,10.0,"Ingleside, Ontario, Canada",ON,44.9988842,-74.9897993,3590.0
+EarthLight,2015,Solar,10.0,"Pefferlaw, Ontario, Canada",ON,44.31468599999999,-79.20273300000001,3590.0
+GoldLight,2015,Solar,10.0,"Pefferlaw, Ontario, Canada",ON,44.31468599999999,-79.20273300000001,3590.0
+Grand Renewable Energy Park,2015,Solar,100.0,"Cayuga, Ontario, Canada",ON,42.9503552,-79.8558122,35900.0
+Illumination,2015,Solar,10.0,"Port Perry, Ontario, Canada",ON,44.10504539999999,-78.944148,3590.0
+Kingston Solar Project,2015,Solar,100.0,"Odessa, Ontario, Canada",ON,44.2770379,-76.71829249999999,35900.0
+LunarLight,2015,Solar,10.0,"Stirling, Ontario, Canada",ON,44.2961831,-77.5474752,3590.0
+Morley,2015,Solar,10.0,"Stratton, Ontario, Canada",ON,48.6783802,-94.1631605,3590.0
+Northland Power Solar Abitibi (Cochrane Solar),2015,Solar,10.0,"Cochrane, Ontario, Canada",ON,49.06502589999999,-81.02992979999999,3590.0
+Northland Power Solar Empire (Cochrane Solar),2015,Solar,10.0,"Cochrane, Ontario, Canada",ON,49.06502589999999,-81.02992979999999,3590.0
+Northland Power Solar Long Lake,2015,Solar,10.0,"Hunta, Ontario, Canada",ON,49.09999999999999,-81.266667,3590.0
+Northland Power Solar Martin's Meadows (Cochrane Solar),2015,Solar,10.0,"Cochrane, Ontario, Canada",ON,49.06502589999999,-81.02992979999999,3590.0
+Penn Energy - Brantgate,2015,Solar,8.0,"Scotland, Ontario, Canada",ON,43.0252588,-80.37516819999999,2872.0
+Penn Energy - Ridgefield,2015,Solar,8.0,"Dunsford, Ontario, Canada",ON,44.4532567,-78.64215109999999,2872.0
+Penn Energy - Roseplain,2015,Solar,6.5,"Port Hope, Ontario, Canada",ON,43.9491764,-78.2934834,2333.5
+Penn Energy - VanDorp,2015,Solar,10.0,"Williamstown, Ontario, Canada",ON,45.146672,-74.579565,3590.0
+Perpetual Cleanpower Oro 4 Line,2015,Solar,10.0,"Hawkestone, Ontario, Canada",ON,44.4971122,-79.4675177,3590.0
+Solar Spirit 4,2015,Solar,10.0,"Corbyville, Ontario, Canada",ON,44.220317,-77.388657,3590.0
+Solray Energy Epsom,2015,Solar,10.0,"Uxbridge, Ontario, Canada",ON,44.10940280000001,-79.12049979999999,3590.0
+SunE Bruining 1,2015,Solar,10.0,"Ingleside, Ontario, Canada",ON,44.9988842,-74.9897993,3590.0
+Belleville TS Demorestville,2014,Solar,10.0,"Demorestville, Ontario, Canada",ON,44.091114,-77.210275,3552.0000000000005
+DiscoveryLight,2014,Solar,10.0,"Beaverton, Ontario, Canada",ON,44.4293703,-79.1534702,3552.0000000000005
+EffiSolar Beckwith,2014,Solar,10.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,3552.0000000000005
+EffiSolar Cornwall,2014,Solar,10.0,"Cornwall, Ontario, Canada",ON,45.0212762,-74.730345,3552.0000000000005
+FotoLight,2014,Solar,10.0,"Picton, Ontario, Canada",ON,44.0073128,-77.14236919999999,3552.0000000000005
+Glenarm,2014,Solar,10.0,"Woodville, Ontario, Canada",ON,44.3971855,-78.9952754,3552.0000000000005
+GoodLight,2014,Solar,10.0,"Kirkfield, Ontario, Canada",ON,44.563164,-78.979981,3552.0000000000005
+Kapuskasing Solar Park,2014,Solar,6.0,"Kapuskasing, Ontario, Canada",ON,49.4181132,-82.4299927,2131.2
+Kingston Gardiner Hwy2 North,2014,Solar,10.0,"Odessa, Ontario, Canada",ON,44.2770379,-76.71829249999999,3552.0000000000005
+Kingston Gardiner TS Unity Road,2014,Solar,10.0,"Elginburg, Ontario, Canada",ON,44.3210314,-76.5383588,3552.0000000000005
+Liskeard 1,2014,Solar,10.0,"New Liskeard, Ontario, Canada",ON,47.5036644,-79.6978808,3552.0000000000005
+Liskeard 3,2014,Solar,10.0,"New Liskeard, Ontario, Canada",ON,47.5036644,-79.6978808,3552.0000000000005
+Liskeard 4,2014,Solar,10.0,"New Liskeard, Ontario, Canada",ON,47.5036644,-79.6978808,3552.0000000000005
+Little Creek,2014,Solar,8.5,"Napanee, Ontario, Canada",ON,44.2148382,-76.964306,3019.2000000000003
+Mattawishkwia,2014,Solar,10.0,"Hearst, Ontario, Canada",ON,49.6880184,-83.66695519999999,3552.0000000000005
+MightySolar,2014,Solar,9.997,"Chesterville, Ontario, Canada",ON,45.10229409999999,-75.2287886,3550.9344000000006
+Napanee TS Taylor Kidd,2014,Solar,10.0,"Kingston, Ontario, Canada",ON,44.231345,-76.48096939999999,3552.0000000000005
+Northland Power Burks Falls West,2014,Solar,10.0,"Burks Falls, Ontario, Canada",ON,45.61988299999999,-79.408748,3552.0000000000005
+Northland Power Solar Glendale,2014,Solar,10.0,"Cornwall, Ontario, Canada",ON,45.0212762,-74.730345,3552.0000000000005
+Northland Power Solar North Burgess,2014,Solar,10.0,"North Burgess, Ontario, Canada",ON,45.0200508,-79.6176,3552.0000000000005
+Penn Energy - Edwardsburgh Morrisburg-1,2014,Solar,9.33,"Prescott, Ontario, Canada",ON,44.709294,-75.51897199999999,3314.0160000000005
+Penn Energy - Hamilton Port Hope-4,2014,Solar,10.0,"Baltimore, Ontario, Canada",ON,44.0225579,-78.148501,3552.0000000000005
+Penn Energy South Glengarry St Lawrence-1,2014,Solar,9.33,"South Glengarry, Ontario, Canada",ON,45.2558994,-74.5952199,3314.0160000000005
+Perpetual Cleanpower Lindsay,2014,Solar,15.5,"Lindsay, Ontario, Canada",ON,44.3565742,-78.7407542,5505.600000000001
+Ramore,2014,Solar,8.0,"Ramore, Ontario, Canada",ON,48.4291989,-80.329742,2841.6000000000004
+RayLight,2014,Solar,10.0,"Wyebridge, Ontario, Canada",ON,44.695276,-79.884289,3552.0000000000005
+RE Breen 2,2014,Solar,10.0,"Putnam, Ontario, Canada",ON,42.990276,-80.954269,3552.0000000000005
+RE Ingersoll 1,2014,Solar,9.5,"Ingersoll, Ontario, Canada",ON,43.03816279999999,-80.88404899999999,3374.4000000000005
+RE Orillia 1,2014,Solar,10.0,"Hawkestone, Ontario, Canada",ON,44.4971122,-79.4675177,3552.0000000000005
+RE Orillia 2,2014,Solar,10.0,"Hawkestone, Ontario, Canada",ON,44.4971122,-79.4675177,3552.0000000000005
+RE Orillia 3,2014,Solar,6.5,"Orillia, Ontario, Canada",ON,44.6082465,-79.4196783,2308.8
+RE Smiths Falls 1,2014,Solar,6.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,2131.2
+RE Smiths Falls 3,2014,Solar,6.5,"Smith Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,2308.8
+RE Smiths Falls 4,2014,Solar,10.0,"Perth, Ontario, Canada",ON,44.8988097,-76.2485592,3552.0000000000005
+RE Sunningdale 1,2014,Solar,7.0,"Thorndale, Ontario, Canada",ON,43.1029555,-81.1390073,2486.4
+Solray Energy Sunderland,2014,Solar,10.0,"Beaverton, Ontario, Canada",ON,44.4293703,-79.1534702,3552.0000000000005
+SparkleLight,2014,Solar,10.0,"Woodville, Ontario, Canada",ON,44.3971855,-78.9952754,3552.0000000000005
+SunE Newboro 1,2014,Solar,10.0,"Westport, Ontario, Canada",ON,44.6776761,-76.3996659,3552.0000000000005
+SunE Newboro 4,2014,Solar,10.0,"Westport, Ontario, Canada",ON,44.6776761,-76.3996659,3552.0000000000005
+Sunny Shores,2014,Solar,10.0,"Wellington, Ontario, Canada",ON,43.951752,-77.3496426,3552.0000000000005
+"Walpole 1, 2",2014,Solar,20.0,"Hagersville, Ontario, Canada",ON,42.9598903,-80.0522861,7104.000000000001
+Welland Ridge Road,2014,Solar,10.0,"Welland, Ontario, Canada",ON,42.9921579,-79.2482555,3552.0000000000005
+2176050,2013,Solar,9.0,"Brockville, Ontario, Canada",ON,44.5895244,-75.68428580000001,3162.6
+Adelaide 1,2013,Solar,10.0,"Adelaide, Ontario, Canada",ON,43.00468,-81.72102199999999,3514.0
+Alderville 3,2013,Solar,5.0,"Roseneath, Ontario, Canada",ON,44.192768,-78.057677,1757.0
+Amherstburg II,2013,Solar,11.8,"Amherstburg, Ontario, Canada",ON,42.1013779,-83.1086977,4146.52
+Belmont Solar 1 & 2,2013,Solar,20.0,"Belmont, Ontario, Canada",ON,42.8813217,-81.08754119999999,7028.0
+Brockville 1 & 2,2013,Solar,19.0,"Brockville, Ontario, Canada",ON,44.5895244,-75.68428580000001,6676.6
+Brockville Solar Inc.,2013,Solar,10.0,"Lyn, Ontario, Canada",ON,44.577331,-75.784115,3514.0
+Burritts Rapids,2013,Solar,7.0,"Merrickville, Ontario, Canada",ON,44.9147549,-75.83661719999999,2459.8
+Kingston Gardiner Hwy2 South,2013,Solar,10.0,"Odessa, Ontario, Canada",ON,44.2770379,-76.71829249999999,3514.0
+Kingston Gardiner TS Odessa,2013,Solar,10.0,"Odessa, Ontario, Canada",ON,44.2770379,-76.71829249999999,3514.0
+Longueil TS Malbouef,2013,Solar,10.0,"Alfred, Ontario, Canada",ON,45.55860939999999,-74.8803744,3514.0
+Mississippi Mills,2013,Solar,10.0,"Pakenham, Ontario, Canada",ON,45.333032,-76.29043399999999,3514.0
+Norfolk Bloomsburg,2013,Solar,12.1,"Simcoe, Ontario, Canada",ON,42.8372632,-80.3040424,4251.94
+Northland Power Solar Belleville North,2013,Solar,10.0,"Ameliasburgh, Ontario, Canada",ON,44.058428,-77.437455,3514.0
+Northland Power Solar Belleville South,2013,Solar,10.0,"Ameliasburgh, Ontario, Canada",ON,44.058428,-77.437455,3514.0
+Northland Power Solar Burks Falls East,2013,Solar,10.0,"Burks Falls, Ontario, Canada",ON,45.61988299999999,-79.408748,3514.0
+Northland Power Solar Crosby,2013,Solar,10.0,"Portland, Ontario, Canada",ON,44.695047,-76.19294699999999,3514.0
+Northland Power Solar McCann L.P.,2013,Solar,10.0,"Westport, Ontario, Canada",ON,44.6776761,-76.3996659,3514.0
+Northland Power Solar Rideau Lakes,2013,Solar,10.0,"Portland, Ontario, Canada",ON,44.695047,-76.19294699999999,3514.0
+RE Midhurst 2,2013,Solar,3.5,"Phelpston, Ontario, Canada",ON,44.51802,-79.847235,1229.9
+RE Midhurst 3,2013,Solar,3.5,"Oro Station, Ontario, Canada",ON,44.459435,-79.517794,1229.9
+RE Midhurst 4,2013,Solar,6.5,"Springwater Township, Ontario, Canada",ON,44.4471323,-79.730217,2284.1
+RE Midhurst 6,2013,Solar,8.5,"Springwater Township, Ontario, Canada",ON,44.4471323,-79.730217,2986.9
+RE Smiths Falls 2,2013,Solar,10.0,"Perth, Ontario, Canada",ON,44.8988097,-76.2485592,3514.0
+RE Smiths Falls 5,2013,Solar,10.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,3514.0
+RE Smiths Falls 6,2013,Solar,10.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,3514.0
+RE Waubaushene 3,2013,Solar,10.0,"Wyebridge, Ontario, Canada",ON,44.695276,-79.884289,3514.0
+RE Waubaushene 4,2013,Solar,8.0,"Coldwater, Ontario, Canada",ON,44.7099419,-79.643778,2811.2
+RE Waubaushene 5,2013,Solar,3.5,"Coldwater, Ontario, Canada",ON,44.7099419,-79.643778,1229.9
+Ruby Farms,2013,Solar,1.99821,"Strathroy, Ontario, Canada",ON,42.95542,-81.62323330000001,702.170994
+Sandringham,2013,Solar,10.0,"City of Kawartha Lakes, Ontario, Canada",ON,44.5337469,-78.9006484,3514.0
+Simcoe Solar Energy Centre I,2013,Solar,10.0,"Woodville, Ontario, Canada",ON,44.3971855,-78.9952754,3514.0
+Simcoe Solar Energy Centre III,2013,Solar,10.0,"Woodville, Ontario, Canada",ON,44.3971855,-78.9952754,3514.0
+William Rutley,2013,Solar,10.0,"Ingleside, Ontario, Canada",ON,44.9988842,-74.9897993,3514.0
+Woodville,2013,Solar,10.0,"City of Kawartha Lakes, Ontario, Canada",ON,44.5337469,-78.9006484,3514.0
+Fort Simpson Solar Energy Project,2012,Solar,0.1,"Fort Simpson, Northwest Territories, Canada",NT,61.8627978,-121.353033,34.76
+2176047,2012,Solar,10.0,"Brockville, Ontario, Canada",ON,44.5895244,-75.68428580000001,3476.0
+First Light 3,2012,Solar,10.0,"Stone Mills, Ontario, Canada",ON,44.4879049,-76.9916547,3476.0
+Fort William First Nations Solar Farm,2012,Solar,10.0,"Thunder Bay, Ontario, Canada",ON,48.3808951,-89.2476823,3476.0
+GS One-Parkway Solar Farm,2012,Solar,10.0,"Osgoode, Ontario, Canada",ON,45.1482547,-75.601778,3476.0
+Moore Solar Energy Center (St. Clair Solar 1 & 2),2012,Solar,20.0,"St. Clair Township, Ontario, Canada",ON,42.839859,-82.46388859999999,6952.0
+Sombra (St. Clair Solar 3 & 4),2012,Solar,20.0,"St. Clair Township, Ontario, Canada",ON,42.839859,-82.46388859999999,6952.0
+Stardale,2012,Solar,27.0,"East Hawkesbury Township, Ontario, Canada",ON,45.5047736,-74.4913333,9385.2
+Stone Mills Solar Park,2012,Solar,11.2,"Napanee, Ontario, Canada",ON,44.2148382,-76.964306,3893.12
+SunE Rutley,2012,Solar,10.0,"Ingleside, Ontario, Canada",ON,44.9988842,-74.9897993,3476.0
+Erie Ridge,2011,Solar,9.3,"Ridgetown, Ontario, Canada",ON,42.4392003,-81.887149,3197.3399999999997
+First Light 2,2011,Solar,7.8,"Stone Mills, Ontario, Canada",ON,44.4879049,-76.9916547,2681.6399999999994
+Ryerse,2011,Solar,4.0,"Port Dover, Ontario, Canada",ON,42.7865225,-80.20327790000002,1375.1999999999998
+Silvercreek,2011,Solar,10.0,"Aylmer, Ontario, Canada",ON,42.7729381,-80.9828842,3437.9999999999995
+SkyPower Fort William,2011,Solar,10.0,"Thunder Bay, Ontario, Canada",ON,48.3808951,-89.2476823,3437.9999999999995
+Smith Falls B,2011,Solar,10.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,3437.9999999999995
+Thunder Bay Airport,2011,Solar,8.5,"Thunder Bay, Ontario, Canada",ON,48.3808951,-89.2476823,2922.2999999999997
+Vanzwolf,2011,Solar,5.0,"Rainy River, Ontario, Canada",ON,48.7216623,-94.5695247,1718.9999999999998
+Whitewater Solar / Scotch Bush Solar Farm,2011,Solar,2.95,"Township of Whitewater Region, Ontario, Canada",ON,45.733103,-76.85649889999999,1014.2099999999999
+"Amherstburg 1,2,3,4",2011,Solar-Storage,20.0,"Amherstburg, Ontario, Canada",ON,42.1013779,-83.1086977,6875.999999999999
+13th Sideroad,2010,Solar,9.0,"Langton, Ontario, Canada",ON,42.741924,-80.57767100000001,3060.0
+Arnprior Solar,2010,Solar,23.4,"Arnprior, Ontario, Canada",ON,45.4347445,-76.3518469,7956.0
+Elmsley Solar,2010,Solar,24.0,"Lombardy, Ontario, Canada",ON,44.8246937,-76.089865,8160.0
+Enbridge Tilbury,2010,Solar,5.0,"Tilbury, Ontario, Canada",ON,42.2643968,-82.42923119999999,1700.0
+Parkers Corners' Solar Farm,2010,Solar,10.0,"St. Isidore, Ontario, Canada",ON,45.388496,-74.907358,3400.0
+Sarnia Solar 1,2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sarnia Solar 3,2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sarnia Solar 4,2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sarnia Solar 6,2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sarnia Solar 7 (formerly Bluewater Solar 1),2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sarnia Solar 8 (formerly Bluewater Solar 2),2010,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sault Ste Marie (SSM) 2,2010,Solar,30.0,"Sault Ste. Marie, Ontario, Canada",ON,46.5136494,-84.33575259999999,10200.0
+Sault Ste Marie (SSM) 3,2010,Solar,10.0,"Sault Ste. Marie, Ontario, Canada",ON,46.5136494,-84.33575259999999,3400.0
+Smith Falls A,2010,Solar,6.0,"Smiths Falls, Ontario, Canada",ON,44.903748,-76.02161889999999,2040.0
+St. Isidore A,2010,Solar,12.0,"St. Isidore, Ontario, Canada",ON,45.388496,-74.907358,4080.0
+St. Isidore B,2010,Solar,12.0,"St. Isidore, Ontario, Canada",ON,45.388496,-74.907358,4080.0
+Wainwright,2010,Solar,10.0,"Oxdrift, Ontario, Canada",ON,49.8151211,-92.9814406,3400.0
+First Light 1,2009,Solar,7.5,"Stone Mills, Ontario, Canada",ON,44.4879049,-76.9916547,2550.0
+Sarnia Solar 5,2009,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Sault Ste Marie (SSM) 1,2009,Solar,20.0,"Sault Ste. Marie, Ontario, Canada",ON,46.5136494,-84.33575259999999,6800.0
+SunSaver1,2009,Solar,10.0,"Innerkip, Ontario, Canada",ON,43.2101343,-80.6965664,3400.0
+Val Caron,2009,Solar,9.997,"Hanmer, Ontario, Canada",ON,46.652064,-80.9463083,3398.98
+Hydro One Brampton Commercial Solar,2008,Solar,20.48,"Brampton, Ontario, Canada",ON,43.7315479,-79.7624177,6963.2
+Sarnia Solar 2,2008,Solar,10.0,"Sarnia, Ontario, Canada",ON,42.974536,-82.4065901,3400.0
+Region of Waterloo EMS Building 20kW PV,2007,Solar,0.02,"Cambridge, Ontario, Canada",ON,43.3616211,-80.3144276,6.8
+Chappice Lake (CHP1),2023,Solar,14.0,"Cypress County, Alberta, Canada",AB,50.0228165,-110.4765127,5277.999999999999
+Deerfoot Solar Park (DFT1),2023,Solar,37.0,"Calgary, Alberta, Canada",AB,51.04473309999999,-114.0718831,13948.999999999998
+Empress Solar Park (EMP1),2023,Solar,39.0,"Empress, Alberta, Canada",AB,50.9567309,-110.0080274,14702.999999999998
+Joffre Solar 1 (JFS1),2023,Solar,25.0,"Joffre, Alberta, Canada",AB,52.33450300000001,-113.535927,9424.999999999998
+Joffre Solar 2 (JFS2),2023,Solar,22.0,"Joffre, Alberta, Canada",AB,52.33450300000001,-113.535927,8293.999999999998
+Michichi Creek (MCH1),2023,Solar,13.0,"Drumheller, Alberta, Canada",AB,51.4619438,-112.7106587,4900.999999999999
+Stavely (STV1),2023,Solar,17.0,"Stavely, Alberta, Canada",AB,50.1615778,-113.6409669,6408.999999999999
+Youngstown Solar (YNG1),2023,Solar,6.0,"Youngstown, Alberta, Canada",AB,51.5285044,-111.2051465,2261.9999999999995
+Fox Coulee Solar,2023,Solar,75.0,"Fox Coulee, Alberta, Canada",AB,49.0022092,-112.9989787,28274.999999999996
+Saddlebrook Solar (SDL1),2023,Solar,81.0,"Saddlebrook, Alberta, Canada",AB,53.9332706,-116.5765035,30536.999999999996
+Barlow Solar (BLS1),2022,Solar,27.0,"Barlow, Alberta, Canada",AB,53.9332706,-116.5765035,10178.999999999998

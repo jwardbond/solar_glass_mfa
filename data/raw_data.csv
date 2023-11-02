@@ -1,0 +1,634 @@
+project,tech,province,year,wind_cap,sol_cap,storage,duration,location
+eReserve1 ATCO Rycroft 730S Battery DER,Energy Storage,AB,2022,#N/A,#N/A,20,20,20-Grande Prairie
+eReserve3 Mercer Hill,Energy Storage,AB,2022,#N/A,#N/A,20,20,Clairmont
+Brooks 121S DER Solar 1,Solar,AB,2022,#N/A,13,#N/A,#N/A,Brooks
+Brooks 121S DER Solar 2,Solar,AB,2022,#N/A,14,#N/A,#N/A,Brooks
+Clydesdale 1&2,Solar,AB,2022,#N/A,75,#N/A,#N/A,Taber
+Coaldale 254S DER Solar 3 (Fortis),Solar,AB,2022,#N/A,22.5,#N/A,#N/A,Lethbridge
+Conrad DER Solar 1 (FortisAlberta),Solar,AB,2022,#N/A,18.4,#N/A,#N/A,Vauxhall
+Conrad DER Solar 2 (FortisAlberta),Solar,AB,2022,#N/A,18,#N/A,#N/A,Vauxhall
+Kisikaw-pisim 1 & 2,Solar,AB,2022,#N/A,13.6,#N/A,#N/A,Enoch Cree Reserve land
+Monarch 492S DER Solar (Fortis),Solar,AB,2022,#N/A,23.6,#N/A,#N/A,Lethbridge
+"Namaka Solar (East Strathmore Solar Project)
+(NMK1)",Solar,AB,2022,#N/A,20.1,#N/A,#N/A,Strathmore
+Strathmore Solar,Solar,AB,2022,#N/A,40.5,#N/A,#N/A,Strathmore
+Travers Solar Project,Solar,AB,2022,#N/A,465,#N/A,#N/A,Lomond
+Vulcan Faribault Farms DG PV (Fortis 255S),Solar,AB,2022,#N/A,22,#N/A,#N/A,Stavely
+"Forty Mile Wind Power Project- Granlea
+Phase",Wind,AB,2022,202.5,#N/A,#N/A,#N/A,Bow Island
+Lanfine North Wind Farm,Wind,AB,2022,150,#N/A,#N/A,#N/A,"Oyen, AB"
+Rattlesnake Ridge Wind Project,Wind,AB,2022,130,#N/A,#N/A,#N/A,Medicine Hat
+Wheatland WAGF Project,Wind,AB,2022,122.4,#N/A,#N/A,#N/A,43-Sheerness
+Kejimkujik National Park Solar Array,Solar,NS,2022,#N/A,0.1,#N/A,#N/A,Kejimkujik
+"Collaborative Grid Innovation for Atlantic
+Smart Energy Communities (Amherst)",Solar-Storage,NS,2022,#N/A,2,,,Amherst
+"Metrolinx Eglinton Crosstown Maintenance
+and Storage Facility",Energy Storage,ON,2022,#N/A,#N/A,10,30,"Toronto, ON"
+Des Cultures (Parc Éolien),Wind,QC,2022,24,#N/A,#N/A,#N/A,"communauté mohawk de Kahnawake, en
+Montérégie"
+Awasis Solar,Solar,SK,2022,#N/A,10,#N/A,#N/A,Regina
+Blue Hill Wind Project,Wind,SK,2022,177,#N/A,#N/A,#N/A,South of Herbert
+Golden South Wind Energy Facility,Wind,SK,2022,200,#N/A,#N/A,#N/A,south of Assiniboia
+Snowline Gold Solar Mine,Solar-Storage,YK,2022,#N/A,,,0.121,Remote eastern Yukon
+ENMAX Crossfield CRS3 Battery Storage,Energy Storage,AB,2021,#N/A,#N/A,10,4.3,57-Airdrie
+eReserve2 Buffalo Creek 526S DER Storage,Energy Storage,AB,2021,#N/A,#N/A,20,20,32-Wainwright
+Alberta Solar One (Burdett 1),Solar,AB,2021,#N/A,10.5,#N/A,#N/A,"Burdet, Forty Mile County"
+Burdett Solar Project,Solar,AB,2021,#N/A,20,#N/A,#N/A,"Burdet, Forty Mile County"
+Claresholm Solar project,Solar,AB,2021,#N/A,132,#N/A,#N/A,Claresholm
+Hays DG PV (Fortis 421S),Solar,AB,2021,#N/A,23,#N/A,#N/A,Taber
+Jenner Solar DER (Fortis 275S),Solar,AB,2021,#N/A,23,#N/A,#N/A,Empress
+Suffield Solar,Solar,AB,2021,#N/A,23,#N/A,#N/A,Suffield
+Yellow Lake Solar Project,Solar,AB,2021,#N/A,19,#N/A,#N/A,Yellow Lake
+Whitla Wind 2,Wind,AB,2021,97.2,#N/A,#N/A,#N/A,County of Forty Mile
+Whitla Wind 3,Wind,AB,2021,54,#N/A,#N/A,#N/A,County of Forty Mile
+Windrise,Wind,AB,2021,206.4,#N/A,#N/A,#N/A,Municipal District of Willow Creek
+Sukunka Wind Energy Project,Wind,BC,2021,15,#N/A,#N/A,#N/A,Chetwynd
+Zonnebeke Wind Energy Project,Wind,BC,2021,15,#N/A,#N/A,#N/A,Chetwynd
+Berwick (AREA),Solar-Storage,NS,2021,#N/A,4.8,,0.5,Berwick
+NSG Group Collingwood Storage,Energy Storage,ON,2021,#N/A,#N/A,,10,"Collingwood, ON"
+Fort Severn Solar,Solar,ON,2021,#N/A,0.3,#N/A,#N/A,Fort Severn
+Nation Rise Wind Farm,Wind,ON,2021,101.5,#N/A,#N/A,#N/A,North Stormont
+WEICAN R&D Park Phase 2,Solar-Storage,PE,2021,#N/A,0.1,0.1,0.22,North Cape
+Gabrielle-Bodis generating station (La Prairie),Solar,QC,2021,#N/A,8,#N/A,#N/A,La Prairie
+"Robert-A.-Boyd generating station
+(Varennes)",Solar,QC,2021,#N/A,1.5,#N/A,#N/A,Varennes
+Le Projet Éoliennes Belle-Rivière (Val-eo),Wind,QC,2021,24,#N/A,#N/A,#N/A,MRC de Lac-Saint-Jean-Est
+Highfield Solar Project,Solar,SK,2021,#N/A,10,#N/A,#N/A,Swift Current
+Ocean Man Second Wind 1 and 2,Solar,SK,2021,#N/A,1,#N/A,#N/A,Ocean Man
+Pesâkâstêw Solar Project,Solar,SK,2021,#N/A,10,#N/A,#N/A,Weyburn
+Riverhurst Wind Farm,Wind,SK,2021,10.5,#N/A,#N/A,#N/A,Riverhurst
+North Klondike Solar,Solar,YK,2021,#N/A,1,#N/A,#N/A,Whitehorse
+Old Crow Solar Project,Solar-Storage,YK,2021,#N/A,0.5,,,Old Crow
+WindCharger Battery Storage (Summerview),Energy Storage,AB,2020,#N/A,#N/A,10,20,"Summerview Wind Farm, MD of Pincher Creek, 13
+km northeast of Pincher Creek, AB"
+Hull Solar Farm (Prairie Light 2),Solar,AB,2020,#N/A,25,#N/A,#N/A,Vauxhall
+Innisfail Solar Project,Solar,AB,2020,#N/A,22,#N/A,#N/A,"Innisfail, Red Deer County"
+Montana First Nation Solar Project,Solar,AB,2020,#N/A,4.6,#N/A,#N/A,Wetaskiwin
+Vauxhall Solar Farm (Prairie Light 3),Solar,AB,2020,#N/A,22,#N/A,#N/A,Vauxhall 
+"ATCO Fort Chipewyan Solar & Storage plus
+Three Nations Energy Solar Farm",Solar-Storage,AB,2020,#N/A,2.2,,1.5,Fort Chipewyan
+Castle Rock Ridge Phase 2,Wind,AB,2020,29.4,#N/A,#N/A,#N/A,Municipal District of Pincher Creek
+Riverview Wind Power Plant,Wind,AB,2020,105,#N/A,#N/A,#N/A,Municipal District of Pincher Creek
+Tobacco Plains Indian Band Grasmere,Solar-Storage,BC,2020,#N/A,,,,Grasmere
+Fisher River,Solar,MB,2020,#N/A,1,#N/A,#N/A,Fisher River
+Oinpegitjoig Wind Project (Richibucto),Wind,NB,2020,3.8,#N/A,#N/A,#N/A,"8 kilometers south of Bathurst, in Gloucester
+County, New Brunswick"
+Wocawson Energy Project Phase 1,Wind,NB,2020,20,#N/A,#N/A,#N/A,"near Sussex, Kings County"
+Kruger Brampton Energy Storage LP,Energy Storage,ON,2020,#N/A,#N/A,1,2,"Brampton, ON"
+La Dune-du-Nord aux Iles-de-la-Madeleine,Wind,QC,2020,8,#N/A,#N/A,#N/A,Iles de la Madeleine
+Whitla Wind 1,Wind,AB,2019,201.6,#N/A,#N/A,#N/A,County of Forty Mile
+Tsilhqot’in Solar Farms,Solar-Storage,BC,2019,#N/A,0.9,,,Nemiah Valley
+Moose Lake,Wind,BC,2019,15,#N/A,#N/A,#N/A,Crown land 24km NW of Tumbler Ridge BC
+Saint John Energy Megapack - Millidgeville,Energy Storage,NB,2019,#N/A,,1.3,2.5,"Millidgeville, NB"
+"Wisokolamson Energy Wind Project (Albert
+Wind)",Wind,NB,2019,18,#N/A,#N/A,#N/A,"12 kilometres west of the Village of Riverside-Albert, New Brunswick, Canada"
+Ameresco Newmarket Energy Storage Inc. 1,Energy Storage,ON,2019,#N/A,#N/A,2,2,"Newmarket, ON"
+Ameresco Newmarket Energy Storage Inc. 2,Energy Storage,ON,2019,#N/A,#N/A,2,2,"Newmarket, ON"
+Convergent Sarnia Shell,Energy Storage,ON,2019,#N/A,#N/A,10,20,"Sarnia, ON"
+Ellwood Energy Storage LP,Energy Storage,ON,2019,#N/A,#N/A,4,2.8,Ottawa
+Goderich A-CAES Facility,Energy Storage,ON,2019,#N/A,#N/A,1.8,7,"Goderich, ON"
+Barlow Solar Energy Centre,Solar,ON,2019,#N/A,10,#N/A,#N/A,Cornwall
+Loyalist Solar Project,Solar,ON,2019,#N/A,54,#N/A,#N/A,Centreville
+Nanticoke Solar,Solar,ON,2019,#N/A,44,#N/A,#N/A,Nanticoke
+Pendleton Solar Energy Centre,Solar,ON,2019,#N/A,12,#N/A,#N/A,Curran
+Henvey Inlet,Wind,ON,2019,300,#N/A,#N/A,#N/A,Henvey Inlet
+Romney Wind Energy Center,Wind,ON,2019,60,#N/A,#N/A,#N/A,Romney
+Université de Sherbrooke Solar Park,Solar,QC,2019,#N/A,1,#N/A,#N/A,Université de Sherbrooke
+Maple Creek Solar 1,Solar,SK,2019,#N/A,0.1,#N/A,#N/A,Maple Creek
+Maple Creek Solar 2,Solar,SK,2019,#N/A,0.1,#N/A,#N/A,Maple Creek
+Western Lily,Wind,SK,2019,20,#N/A,#N/A,#N/A,"Greenfell, SK"
+Cap Pelé,Wind,NB,2018,2.35,#N/A,#N/A,#N/A,Near Botsford Portage
+Kent Hills 3,Wind,NB,2018,17.25,#N/A,#N/A,#N/A,"Elgin Parish in Albert County, N.B"
+"2 MW NextEra Elmira Grid Battery Storage
+Facility",Energy Storage,ON,2018,#N/A,#N/A,2,8,"Elmira, ON"
+Convergent Sarnia Anonymous,Energy Storage,ON,2018,#N/A,#N/A,10,20,"Sarnia, ON"
+Hecate Stratford,Energy Storage,ON,2018,#N/A,#N/A,8.8,40.8,"Stratford, ON"
+Amherst Island Wind Project,Wind,ON,2018,75,#N/A,#N/A,#N/A,Loyalist Township
+North Kent Wind Farm,Wind,ON,2018,100,#N/A,#N/A,#N/A,Chatham-Kent
+La Maison Simons Quebec City,Solar,QC,2018,#N/A,1.3,#N/A,#N/A,Quebec City
+Mont Sainte-Marguerite,Wind,QC,2018,147.2,#N/A,#N/A,#N/A,la région de Chaudière-Appalaches
+Nicolas-Riou Wind Project,Wind,QC,2018,224.25,#N/A,#N/A,#N/A,Bas-Saint-Laurent region
+Brooks 1,Solar,AB,2017,#N/A,15,#N/A,#N/A,"Brooks, Newell County"
+Meikle Wind,Wind,BC,2017,179,#N/A,#N/A,#N/A,Tumbler Ridge
+Pennask Wind Power Project,Wind,BC,2017,15,#N/A,#N/A,#N/A,44 km west of Kelowna
+Shinish Creek Wind Power Project,Wind,BC,2017,15,#N/A,#N/A,#N/A,33 km west of Summerland
+Chebucto Terence Bay Wind Farm,Wind,NS,2017,7.05,#N/A,#N/A,#N/A,Terence Bay
+Ellershouse Wind Farm (phase II & III),Wind,NS,2017,7.05,#N/A,#N/A,#N/A,"Proximate to the towns of Antigonish, Berwick
+and Mahone Bay"
+Liverpool Wind Energy Storage Project,Wind,NS,2017,4.7,#N/A,#N/A,#N/A,"Liverpool, Queens Municipality. Distribution
+network restricted to 3.6MW, storage used to
+handle full turbine capacity"
+New Victoria Wind Turbine,Wind,NS,2017,1.95,#N/A,#N/A,#N/A,"New Victoria, ON"
+Pictou Landing Wind Farm,Wind,NS,2017,1.6,#N/A,#N/A,#N/A,Pictou County
+"13 MW / 53 MWh IESO Energy Storage
+Procurement Phase 1 - Hecate Energy
+(Toronto Installation)",Energy Storage,ON,2017,#N/A,#N/A,13,53,Toronto
+"5 MW / 20 MWh - Ontario IESO - SunEdison
+/ Imergy Flow Battery",Energy Storage,ON,2017,#N/A,#N/A,5,20,Ontario
+Hecate Energy Ontario Storage VII LP,Energy Storage,ON,2017,#N/A,#N/A,2,,"Kitchener, ON"
+"Parry Energy Storage, LP",Energy Storage,ON,2017,#N/A,#N/A,2,,Parry Sound
+Powin Energy Ontario Storage II LP 1,Energy Storage,ON,2017,#N/A,#N/A,2.4,,"Stratford, ON"
+Powin Energy Ontario Storage II LP 2,Energy Storage,ON,2017,#N/A,#N/A,2.4,,"Stratford, ON"
+Powin Energy Ontario Storage II LP 3,Energy Storage,ON,2017,#N/A,#N/A,2,,"Stratford, ON"
+Powin Energy Ontario Storage II LP 4,Energy Storage,ON,2017,#N/A,#N/A,2,,"Stratford, ON"
+"Sault Ste. Marie Energy Storage - Convergent
++ GE / IESO",Energy Storage,ON,2017,#N/A,#N/A,7,7,"Sault Ste. Marie, ON"
+Sault Ste. Marie Energy Storage LP,Energy Storage,ON,2017,#N/A,#N/A,7,,Sault Ste. Marie
+Belle River Wind Project,Wind,ON,2017,100,#N/A,#N/A,#N/A,"Lakeshore, Ontario"
+Moorefield Wind Project,Wind,ON,2017,0.5,#N/A,#N/A,#N/A,"Mapleton Township, County of Wellington"
+Settlers Landing Wind Park,Wind,ON,2017,8,#N/A,#N/A,#N/A,"City of Kawartha Lakes, near town of Pontypool"
+Sumac Ridge Wind Farm,Wind,ON,2017,10.25,#N/A,#N/A,#N/A,"Kawartha Lakes, ON"
+"Samsung-Summerside “smart storage” Solar
+PV System",Solar-Storage,PE,2017,#N/A,,0.3,0.9,"Summerside, PE"
+Lower Nicola Indian Band Merritt,Solar,BC,2016,#N/A,0.1,#N/A,#N/A,Merritt
+Amherst Community Wind Farm,Wind,NS,2016,6,#N/A,#N/A,#N/A,Cumberland County
+Avondale Community Wind Park,Wind,NS,2016,1.6,#N/A,#N/A,#N/A,"Doliber Mtn, Pictou County"
+Baddeck Community Wind Project,Wind,NS,2016,1.7,#N/A,#N/A,#N/A,"Baddeck, Victoria County"
+Brenton Community Wind Project,Wind,NS,2016,1.99,#N/A,#N/A,#N/A,"Brenton, Yarmouth County"
+Gardiner Mines (Cape Breton University),Wind,NS,2016,7.05,#N/A,#N/A,#N/A,Between Syndey and Glace Bay
+Hardwood Lands Community Wind Project,Wind,NS,2016,6,#N/A,#N/A,#N/A,"Hardwood Lands, Hants County"
+Ketch Harbour Wind Power Project,Wind,NS,2016,4.6,#N/A,#N/A,#N/A,Near Ketch Harbour
+Porters Lake Wind Power Project,Wind,NS,2016,3.2,#N/A,#N/A,#N/A,Near Porters Lake
+Walton Community Wind Project,Wind,NS,2016,1.99,#N/A,#N/A,#N/A,"Walton, Hans County"
+Colville Lake Solar Project,Solar-Storage,NT,2016,#N/A,,,,"Colville Lake, Arctic Circle"
+"Elmira Energy Storage, LP",Energy Storage,ON,2016,#N/A,#N/A,2,,"Elmira, ON"
+Penetanguishene Microgrid - PowerStream,Energy Storage,ON,2016,#N/A,#N/A,0.8,0.5025,"Penetanguishene, ON"
+Veridian-Ontario-Microgrid,Microgrid,ON,2016,,,0,,Sault Ste. Marie
+HPG Site A,Solar,ON,2016,#N/A,2,#N/A,#N/A,Bowmanville
+Southgate Solar,Solar,ON,2016,#N/A,50,#N/A,#N/A,Holstein
+Windsor Solar,Solar,ON,2016,#N/A,50,#N/A,#N/A,Windsor
+Ganaraska,Wind,ON,2016,17.6,#N/A,#N/A,#N/A,Orion
+Grand Bend Wind Farm,Wind,ON,2016,99.3,#N/A,#N/A,#N/A,North of village of Grand Bend
+Grey Highlands Clean Energy,Wind,ON,2016,18.5,#N/A,#N/A,#N/A,"Near McIntyre, Maxwell, and Hatherton"
+Grey Highlands Zero Emission People (ZEP),Wind,ON,2016,10,#N/A,#N/A,#N/A,"McIntyre, Grey County"
+Gunn's Hill Wind Farm,Wind,ON,2016,18,#N/A,#N/A,#N/A,"Township of Norwich, Oxford County"
+Niagara Region Wind Farm,Wind,ON,2016,230,#N/A,#N/A,#N/A,"Niagara Region/ Townships of Lincoln, West
+Lincoln, & Wainfleet / Haldimand County"
+Port Ryerse Wind Farm,Wind,ON,2016,10,#N/A,#N/A,#N/A,Port Ryerse in Norfolk County
+Snowy Ridge Wind Park,Wind,ON,2016,10,#N/A,#N/A,#N/A,City of Kawartha Lakes
+Mesgi'g Ugju's'n,Wind,QC,2016,150,#N/A,#N/A,#N/A,"Rivière-Nouvelle, Gaspésie-Îles-de-la-Madeleine"
+Pierre-De Saurel,Wind,QC,2016,24.6,#N/A,#N/A,#N/A,"Yamaska, Saint-Robert, Saint-Aimé & Montérégie"
+Roncevaux,Wind,QC,2016,74.8,#N/A,#N/A,#N/A,"Ruisseau-Ferguson, Gaspésie-Îles-de-la-Madeleine"
+Green Acres - Bassano,Solar,AB,2015,#N/A,2,#N/A,#N/A,Near Bassano
+Bull Creek Wind Farm,Wind,AB,2015,29.16,#N/A,#N/A,#N/A,Municipal District of Provost
+Sunmine,Solar,BC,2015,#N/A,1.05,#N/A,#N/A,"Sullivan Mine, Kimberley"
+Auld's Mountain I,Wind,NS,2015,4.6,#N/A,#N/A,#N/A,Pictou County
+Barrachois Wind Farm,Wind,NS,2015,4.6,#N/A,#N/A,#N/A,"Cape Breton Regional Municipality near the
+community of Barrachois"
+Barrington Wind Farm (Watts Wind II),Wind,NS,2015,3.2,#N/A,#N/A,#N/A,2 hours east of Halifax on the Eastern Shore
+Bateston Wind Project,Wind,NS,2015,2.35,#N/A,#N/A,#N/A,Bateston
+Black Pond Wind Farm,Wind,NS,2015,1.99,#N/A,#N/A,#N/A,Yarmouth
+Cheticamp Wind Project,Wind,NS,2015,0.9,#N/A,#N/A,#N/A,"Village of Cheticamp, Cape Breton County"
+Ellerhouse Wind Farm I,Wind,NS,2015,9.2,#N/A,#N/A,#N/A,"Proximate to the towns of Antigonish, Berwick
+and Mahone Bay"
+Fitzpatrick Wind Farm,Wind,NS,2015,1.4,#N/A,#N/A,#N/A,"Millsville, Pictou County"
+Greenfield Wind Farm,Wind,NS,2015,3.2,#N/A,#N/A,#N/A,Colchester County
+Hillside Boularderie Wind Farm,Wind,NS,2015,4.7,#N/A,#N/A,#N/A,Hillside Boularderie
+Isle Madame Community Wind Project,Wind,NS,2015,1.99,#N/A,#N/A,#N/A,Isle Madame
+Kemptown Wind Farm,Wind,NS,2015,5.04,#N/A,#N/A,#N/A,"Colchester County, near the Colchester balefill
+facility, Exit 18, Highway 104"
+Limerock Wind Farm,Wind,NS,2015,5.04,#N/A,#N/A,#N/A,Pictou County
+"MacLellan's Brook (New Glasgow) Wind
+Power Project",Wind,NS,2015,6.4,#N/A,#N/A,#N/A,New Glasgow
+Martock Ridge Wind Project,Wind,NS,2015,6,#N/A,#N/A,#N/A,Martock Ridge
+Nine Mile River Community Wind Project,Wind,NS,2015,3.98,#N/A,#N/A,#N/A,Nine Mile River
+North Beaverbank Community Wind Project,Wind,NS,2015,7.96,#N/A,#N/A,#N/A,North Beaverbank
+Point Aconi Wind Project,Wind,NS,2015,1.9,#N/A,#N/A,#N/A,"Point Aconi, Cape Breton County"
+Sable Wind Farm,Wind,NS,2015,13.8,#N/A,#N/A,#N/A,Sable Island
+South Canoe Wind Farm,Wind,NS,2015,102,#N/A,#N/A,#N/A,Lunenberg County
+Wedgeport Wind Farm (Watts Wind II),Wind,NS,2015,1.6,#N/A,#N/A,#N/A,2 hours east of Halifax on the Eastern Shore
+2562961 Ontario LTD,Energy Storage,ON,2015,#N/A,#N/A,2,,"Markham, ON"
+"660 kW - Toronto Hydro - HydroStor
+Underwater Storage",Energy Storage,ON,2015,#N/A,#N/A,0.7,0.66,"Toronto Island, ON"
+"eCAMION-Toronto Hydro Pole Mounted
+Lithium-Ion Battery ES System",Energy Storage,ON,2015,#N/A,#N/A,0.5,0.25,"Toronoto, ON"
+Guelph Energy Storage LP,Energy Storage,ON,2015,#N/A,#N/A,5,,"Guelph, ON"
+Hecate IESO Battery Storage 2,Energy Storage,ON,2015,#N/A,#N/A,4,,"Toronto, ON"
+Panasonic Eco Solutions Vaughan,Energy Storage,ON,2015,#N/A,#N/A,2,10,Vaughn
+Alfred,Solar,ON,2015,#N/A,10,#N/A,#N/A,Alfred
+Aria,Solar,ON,2015,#N/A,9,#N/A,#N/A,Elmvale
+Balsam Lake,Solar,ON,2015,#N/A,3,#N/A,#N/A,Coboconk
+BeamLight,Solar,ON,2015,#N/A,10,#N/A,#N/A,Pefferlaw
+Black Bay 2,Solar,ON,2015,#N/A,1,#N/A,#N/A,Red Rock
+CityLights,Solar,ON,2015,#N/A,10,#N/A,#N/A,Chesterville
+Dave Rampel Solar Park,Solar,ON,2015,#N/A,10,#N/A,#N/A,Rainy River
+David Brown Solar Park,Solar,ON,2015,#N/A,10,#N/A,#N/A,Ingleside
+EarthLight,Solar,ON,2015,#N/A,10,#N/A,#N/A,Pefferlaw
+GoldLight,Solar,ON,2015,#N/A,10,#N/A,#N/A,Pefferlaw
+Grand Renewable Energy Park,Solar,ON,2015,#N/A,100,#N/A,#N/A,Cayuga
+Illumination,Solar,ON,2015,#N/A,10,#N/A,#N/A,Port Perry
+Kingston Solar Project,Solar,ON,2015,#N/A,100,#N/A,#N/A,Odessa
+LunarLight,Solar,ON,2015,#N/A,10,#N/A,#N/A,Stirling
+Morley,Solar,ON,2015,#N/A,10,#N/A,#N/A,Stratton
+"Northland Power Solar Abitibi (Cochrane
+Solar)",Solar,ON,2015,#N/A,10,#N/A,#N/A,Cochrane
+"Northland Power Solar Empire (Cochrane
+Solar)",Solar,ON,2015,#N/A,10,#N/A,#N/A,Cochrane
+Northland Power Solar Long Lake,Solar,ON,2015,#N/A,10,#N/A,#N/A,Hunta
+"Northland Power Solar Martin's Meadows
+(Cochrane Solar)",Solar,ON,2015,#N/A,10,#N/A,#N/A,Cochrane
+Penn Energy - Brantgate,Solar,ON,2015,#N/A,8,#N/A,#N/A,Scotland
+Penn Energy - Ridgefield,Solar,ON,2015,#N/A,8,#N/A,#N/A,Dunsford
+Penn Energy - Roseplain,Solar,ON,2015,#N/A,6.5,#N/A,#N/A,Port Hope
+Penn Energy - VanDorp,Solar,ON,2015,#N/A,10,#N/A,#N/A,Williamstown
+Perpetual Cleanpower Oro 4 Line,Solar,ON,2015,#N/A,10,#N/A,#N/A,Hawkestone
+Solar Spirit 4,Solar,ON,2015,#N/A,10,#N/A,#N/A,Corbyville
+Solray Energy Epsom,Solar,ON,2015,#N/A,10,#N/A,#N/A,Uxbridge
+SunE Bruining 1,Solar,ON,2015,#N/A,10,#N/A,#N/A,Ingleside
+Armow Wind,Wind,ON,2015,180,#N/A,#N/A,#N/A,Kincardine
+Bow Lake Wind Project,Wind,ON,2015,58.32,#N/A,#N/A,#N/A,"Bow Lake, North Shore of Lake Superior"
+Cedar Point Wind Power Project,Wind,ON,2015,99.96,#N/A,#N/A,#N/A,40 km NE of Sarnia
+East Durham Wind Energy Centre,Wind,ON,2015,22.4,#N/A,#N/A,#N/A,"Grey County, Ontario"
+Goshen Wind Energy Centre,Wind,ON,2015,102.36,#N/A,#N/A,#N/A,Huron County
+Goulais Wind Farm,Wind,ON,2015,25.3,#N/A,#N/A,#N/A,"Algoma District, North of Sault Ste. Marie"
+Grand Valley Wind Farm (phase III),Wind,ON,2015,40.06,#N/A,#N/A,#N/A,"Town of Grand Valley and Township of Amaranth,
+Dufferin County"
+K2 Wind Power Facility,Wind,ON,2015,269.96,#N/A,#N/A,#N/A,Goderich
+Napier Wind Farm,Wind,ON,2015,4.1,#N/A,#N/A,#N/A,"Township of Adelaide-Metcalfe, County of
+Middlesex"
+Quixote One Wind Energy (Q1WEC),Wind,ON,2015,2.3,#N/A,#N/A,#N/A,"Municipality of Kincardine, Bruce County"
+St. Columban Wind Project,Wind,ON,2015,33,#N/A,#N/A,#N/A,"Municipality of Huron East, Municipality of Morris-Turnberry, and Township of Howick, County of
+Huron"
+Suncor's Adelaide Wind Energy Project,Wind,ON,2015,39.98,#N/A,#N/A,#N/A,"Strathroy, Ontario"
+"Esstalion Technologies Varennes Energy
+Storage System",Energy Storage,QC,2015,#N/A,#N/A,1.2,1.2,"Varennes, QC"
+Côte-de-Beaupré,Wind,QC,2015,23.5,#N/A,#N/A,#N/A,Côte-de-Beaupré MRC
+Frampton,Wind,QC,2015,24,#N/A,#N/A,#N/A,MRC de Frampton
+Mont-Rothery,Wind,QC,2015,74,#N/A,#N/A,#N/A,MRC of Haute-Gaspésie and MRC of Côte-de-Gaspé
+Rivière du Moulin Phase 2,Wind,QC,2015,200,#N/A,#N/A,#N/A,"TNO Lac Pikauba, TNO Lac MinuSaintuk (Régions
+de la Capitale-nationale et Saguenay-Lac-Saint-Jean)"
+Saint-Philémon,Wind,QC,2015,24,#N/A,#N/A,#N/A,"Saint-Philémon in the Chaudiere-Appalaches
+region of Québec"
+Témiscouata 2,Wind,QC,2015,51.7,#N/A,#N/A,#N/A,Saint-Honoré-de-Témiscouata
+Morse Wind Project,Wind,SK,2015,23,#N/A,#N/A,#N/A,Morse
+Blackspring Ridge Wind Project,Wind,AB,2014,300,#N/A,#N/A,#N/A,Vulcan County
+Box Springs Wind Project,Wind,AB,2014,6,#N/A,#N/A,#N/A,Medicine Hat
+Oldman 2 Wind Farm,Wind,AB,2014,46,#N/A,#N/A,#N/A,Pincher Creek
+Chebucto Pockwock Community Wind,Wind,NS,2014,10,#N/A,#N/A,#N/A,"Upper Hammonds Plains, Halifax RM"
+Gaetz Brook Community Wind Farm,Wind,NS,2014,2.3,#N/A,#N/A,#N/A,Gaetz Brook
+Kaizer Meadow Wind Farm,Wind,NS,2014,2,#N/A,#N/A,#N/A,Kaizer Meadow Landfill
+Millbrook Community Wind,Wind,NS,2014,6,#N/A,#N/A,#N/A,Truro
+Mulgrave Community Wind Farm,Wind,NS,2014,2.35,#N/A,#N/A,#N/A,Town of Mulgrave
+Truro Heights Community Wind,Wind,NS,2014,4,#N/A,#N/A,#N/A,Truro
+Whynotts Community Wind,Wind,NS,2014,4,#N/A,#N/A,#N/A,5 km from Bridgewater
+Hydrogenics Power-to-Gas,Energy Storage,ON,2014,#N/A,#N/A,2,,"Markham, ON"
+"NRStor Minto Flywheel Energy Storage
+Project",Energy Storage,ON,2014,#N/A,#N/A,2,0.5,Wellington County
+RES Amphora,Energy Storage,ON,2014,#N/A,#N/A,4,2.6,"Strathroy, ON"
+Belleville TS Demorestville,Solar,ON,2014,#N/A,10,#N/A,#N/A,Demorestville
+DiscoveryLight,Solar,ON,2014,#N/A,10,#N/A,#N/A,Beaverton
+EffiSolar Beckwith,Solar,ON,2014,#N/A,10,#N/A,#N/A,Smiths Falls
+EffiSolar Cornwall,Solar,ON,2014,#N/A,10,#N/A,#N/A,Cornwall
+FotoLight,Solar,ON,2014,#N/A,10,#N/A,#N/A,Picton
+Glenarm,Solar,ON,2014,#N/A,10,#N/A,#N/A,Woodville
+GoodLight,Solar,ON,2014,#N/A,10,#N/A,#N/A,Kirkfield
+Kapuskasing Solar Park,Solar,ON,2014,#N/A,6,#N/A,#N/A,Kapuskasing
+Kingston Gardiner Hwy2 North,Solar,ON,2014,#N/A,10,#N/A,#N/A,Odessa
+Kingston Gardiner TS Unity Road,Solar,ON,2014,#N/A,10,#N/A,#N/A,Elginburg
+Liskeard 1,Solar,ON,2014,#N/A,10,#N/A,#N/A,New Liskeard
+Liskeard 3,Solar,ON,2014,#N/A,10,#N/A,#N/A,New Liskeard
+Liskeard 4,Solar,ON,2014,#N/A,10,#N/A,#N/A,New Liskeard
+Little Creek,Solar,ON,2014,#N/A,8.5,#N/A,#N/A,Napanee
+Mattawishkwia,Solar,ON,2014,#N/A,10,#N/A,#N/A,Hearst
+MightySolar,Solar,ON,2014,#N/A,9.997,#N/A,#N/A,Chesterville
+Napanee TS Taylor Kidd,Solar,ON,2014,#N/A,10,#N/A,#N/A,Kingston
+Northland Power Burks Falls West,Solar,ON,2014,#N/A,10,#N/A,#N/A,Burks Falls
+Northland Power Solar Glendale,Solar,ON,2014,#N/A,10,#N/A,#N/A,Cornwall
+Northland Power Solar North Burgess,Solar,ON,2014,#N/A,10,#N/A,#N/A,North Burgess
+Penn Energy - Edwardsburgh Morrisburg-1,Solar,ON,2014,#N/A,9.33,#N/A,#N/A,Prescott
+Penn Energy - Hamilton Port Hope-4,Solar,ON,2014,#N/A,10,#N/A,#N/A,Baltimore
+Penn Energy South Glengarry St Lawrence-1,Solar,ON,2014,#N/A,9.33,#N/A,#N/A,South Glengarry
+Perpetual Cleanpower Lindsay,Solar,ON,2014,#N/A,15.5,#N/A,#N/A,Lindsay
+Ramore,Solar,ON,2014,#N/A,8,#N/A,#N/A,Ramore
+RayLight,Solar,ON,2014,#N/A,10,#N/A,#N/A,Wyebridge
+RE Breen 2,Solar,ON,2014,#N/A,10,#N/A,#N/A,Putnam
+RE Ingersoll 1,Solar,ON,2014,#N/A,9.5,#N/A,#N/A,Ingersoll
+RE Orillia 1,Solar,ON,2014,#N/A,10,#N/A,#N/A,Hawkestone
+RE Orillia 2,Solar,ON,2014,#N/A,10,#N/A,#N/A,Hawkestone
+RE Orillia 3,Solar,ON,2014,#N/A,6.5,#N/A,#N/A,Orillia
+RE Smiths Falls 1,Solar,ON,2014,#N/A,6,#N/A,#N/A,Smiths Falls
+RE Smiths Falls 3,Solar,ON,2014,#N/A,6.5,#N/A,#N/A,Smith Falls
+RE Smiths Falls 4,Solar,ON,2014,#N/A,10,#N/A,#N/A,Perth
+RE Sunningdale 1,Solar,ON,2014,#N/A,7,#N/A,#N/A,Thorndale
+Solray Energy Sunderland,Solar,ON,2014,#N/A,10,#N/A,#N/A,Beaverton
+SparkleLight,Solar,ON,2014,#N/A,10,#N/A,#N/A,Woodville
+SunE Newboro 1,Solar,ON,2014,#N/A,10,#N/A,#N/A,Westport
+SunE Newboro 4,Solar,ON,2014,#N/A,10,#N/A,#N/A,Westport
+Sunny Shores,Solar,ON,2014,#N/A,10,#N/A,#N/A,Wellington
+"Walpole 1, 2",Solar,ON,2014,#N/A,20,#N/A,#N/A,Hagersville
+Welland Ridge Road,Solar,ON,2014,#N/A,10,#N/A,#N/A,Welland
+Adelaide Wind Energy Centre,Wind,ON,2014,59.94,#N/A,#N/A,#N/A,Middlesex County
+Bluewater Wind Farm,Wind,ON,2014,59.2,#N/A,#N/A,#N/A,Huron County
+Bornish Wind Energy Centre,Wind,ON,2014,72.9,#N/A,#N/A,#N/A,Middlesex County
+Dufferin Wind Farm,Wind,ON,2014,91.39,#N/A,#N/A,#N/A,Melancthon
+Ernestown Windpark Inc.,Wind,ON,2014,10,#N/A,#N/A,#N/A,Loyalist Township
+Grand Renewable Wind,Wind,ON,2014,148.62,#N/A,#N/A,#N/A,Haldimand County
+HAF Energy,Wind,ON,2014,9,#N/A,#N/A,#N/A,West Lincoln
+Jericho,Wind,ON,2014,149.04,#N/A,#N/A,#N/A,Lambton County
+McLean's Mountain,Wind,ON,2014,60,#N/A,#N/A,#N/A,Manitoulin Island
+Oxley Wind Farm,Wind,ON,2014,6,#N/A,#N/A,#N/A,Harrow
+Skyway 8 Windfarm,Wind,ON,2014,9.48,#N/A,#N/A,#N/A,South west of Dundalk
+South Branch Wind Farm,Wind,ON,2014,30,#N/A,#N/A,#N/A,Brinston/Municipality of South Dundas
+South Kent Wind Farm,Wind,ON,2014,270,#N/A,#N/A,#N/A,Chatham-Kent
+Springwood Wind Farm,Wind,ON,2014,8.2,#N/A,#N/A,#N/A,Centre Wellington
+Wainfleet Wind Farm,Wind,ON,2014,9,#N/A,#N/A,#N/A,Wainfleet
+Whittington Wind Farm,Wind,ON,2014,6.15,#N/A,#N/A,#N/A,Amaranth
+Hermanville/ClearSpring Wind Development,Wind,PE,2014,30,#N/A,#N/A,#N/A,Kings County
+Des Moulins (phase 2),Wind,QC,2014,21.15,#N/A,#N/A,#N/A,"Kinnear's Mills, Saint-Jean-de-Brébeuf and
+Thetford Mines"
+La Mitis,Wind,QC,2014,24.6,#N/A,#N/A,#N/A,Saint-Charles-Garnier
+Le Granit,Wind,QC,2014,24.6,#N/A,#N/A,#N/A,Saint-Robert-Bellarmin
+Le Plateau 2,Wind,QC,2014,21.15,#N/A,#N/A,#N/A,MRC d’Avignon
+Rivière du Moulin Phase 1,Wind,QC,2014,150,#N/A,#N/A,#N/A,"TNO Lac Pikauba, TNO Lac MinuSaintuk (Régions
+de la Capitale-nationale et Saguenay-Lac-Saint-Jean)"
+Saint-Damase,Wind,QC,2014,23.5,#N/A,#N/A,#N/A,Saint-Damase
+Seigneurie de Beaupré 2,Wind,QC,2014,131.2,#N/A,#N/A,#N/A,Saint-Ferréol-les-Neiges
+Seigneurie de Beaupré 3,Wind,QC,2014,140.6,#N/A,#N/A,#N/A,Saint-Ferréol-les-Neiges
+Seigneurie de Beaupré 4,Wind,QC,2014,67.9,#N/A,#N/A,#N/A,TNO du Lac Jacques-Cartier
+Témiscouata 1,Wind,QC,2014,23.5,#N/A,#N/A,#N/A,Saint-Honoré-de-Témiscouata
+Vents du Kempt,Wind,QC,2014,101.05,#N/A,#N/A,#N/A,"Municipalities of Causapscal, Ste-Marguerite and
+Ste-Florence"
+Raglan Mine,Wind-Storage,QC,2014,3,#N/A,0.6,1.2515,Nunavik
+BC Hydro Golden and Field Back up Battery,Energy Storage,BC,2013,#N/A,#N/A,1,6.5,"Golden and Field, BC"
+"Vancouver Electrochemical Energy Storage
+Project - Univeristy of BC",Energy Storage,BC,2013,#N/A,#N/A,1,1,"UBC Campus, three locations aggregated"
+Cape Scott,Wind,BC,2013,99,#N/A,#N/A,#N/A,"Knob Hill Plateau, Vancouver Island"
+Creignishrear,Wind,NS,2013,2,#N/A,#N/A,#N/A,Inverness County
+Irish Mountain,Wind,NS,2013,2,#N/A,#N/A,#N/A,Pictou County
+Little River Harbour Community Wind Farm,Wind,NS,2013,1.99,#N/A,#N/A,#N/A,Little River
+Parker Mountain Wind Farm,Wind,NS,2013,1.99,#N/A,#N/A,#N/A,Granville Ferry
+Saint Rose Wind Farm,Wind,NS,2013,1.99,#N/A,#N/A,#N/A,Saint Rose
+South Cape Mabou,Wind,NS,2013,2,#N/A,#N/A,#N/A,Inverness County
+Spiddle Hill Phase 3,Wind,NS,2013,0.8,#N/A,#N/A,#N/A,Colchester County
+2176050,Solar,ON,2013,#N/A,9,#N/A,#N/A,Brockville
+Adelaide 1,Solar,ON,2013,#N/A,10,#N/A,#N/A,Adelaide
+Alderville 3,Solar,ON,2013,#N/A,5,#N/A,#N/A,Roseneath
+Amherstburg II,Solar,ON,2013,#N/A,11.8,#N/A,#N/A,Amherstburg
+Belmont Solar 1 & 2,Solar,ON,2013,#N/A,20,#N/A,#N/A,Belmont
+Brockville 1 & 2,Solar,ON,2013,#N/A,19,#N/A,#N/A,Brockville
+Brockville Solar Inc.,Solar,ON,2013,#N/A,10,#N/A,#N/A,Lyn
+Burritts Rapids,Solar,ON,2013,#N/A,7,#N/A,#N/A,Merrickville
+Kingston Gardiner Hwy2 South,Solar,ON,2013,#N/A,10,#N/A,#N/A,Odessa
+Kingston Gardiner TS Odessa,Solar,ON,2013,#N/A,10,#N/A,#N/A,Odessa
+Longueil TS Malbouef,Solar,ON,2013,#N/A,10,#N/A,#N/A,Alfred
+Mississippi Mills,Solar,ON,2013,#N/A,10,#N/A,#N/A,Pakenham
+Norfolk Bloomsburg,Solar,ON,2013,#N/A,12.1,#N/A,#N/A,Simcoe
+Northland Power Solar Belleville North,Solar,ON,2013,#N/A,10,#N/A,#N/A,Ameliasburgh
+Northland Power Solar Belleville South,Solar,ON,2013,#N/A,10,#N/A,#N/A,Ameliasburgh
+Northland Power Solar Burks Falls East,Solar,ON,2013,#N/A,10,#N/A,#N/A,Burks Falls
+Northland Power Solar Crosby,Solar,ON,2013,#N/A,10,#N/A,#N/A,Portland
+Northland Power Solar McCann L.P.,Solar,ON,2013,#N/A,10,#N/A,#N/A,Westport
+Northland Power Solar Rideau Lakes,Solar,ON,2013,#N/A,10,#N/A,#N/A,Portland
+RE Midhurst 2,Solar,ON,2013,#N/A,3.5,#N/A,#N/A,Phelpston
+RE Midhurst 3,Solar,ON,2013,#N/A,3.5,#N/A,#N/A,Oro Station
+RE Midhurst 4,Solar,ON,2013,#N/A,6.5,#N/A,#N/A,Springwater Township
+RE Midhurst 6,Solar,ON,2013,#N/A,8.5,#N/A,#N/A,Springwater Township
+RE Smiths Falls 2,Solar,ON,2013,#N/A,10,#N/A,#N/A,Perth
+RE Smiths Falls 5,Solar,ON,2013,#N/A,10,#N/A,#N/A,Smiths Falls
+RE Smiths Falls 6,Solar,ON,2013,#N/A,10,#N/A,#N/A,Smiths Falls
+RE Waubaushene 3,Solar,ON,2013,#N/A,10,#N/A,#N/A,Wyebridge
+RE Waubaushene 4,Solar,ON,2013,#N/A,8,#N/A,#N/A,Coldwater
+RE Waubaushene 5,Solar,ON,2013,#N/A,3.5,#N/A,#N/A,Coldwater
+Ruby Farms,Solar,ON,2013,#N/A,1.99821,#N/A,#N/A,Strathroy
+Sandringham,Solar,ON,2013,#N/A,10,#N/A,#N/A,City of Kawartha Lakes
+Simcoe Solar Energy Centre I,Solar,ON,2013,#N/A,10,#N/A,#N/A,Woodville
+Simcoe Solar Energy Centre III,Solar,ON,2013,#N/A,10,#N/A,#N/A,Woodville
+William Rutley,Solar,ON,2013,#N/A,10,#N/A,#N/A,Ingleside
+Woodville,Solar,ON,2013,#N/A,10,#N/A,#N/A,City of Kawartha Lakes
+CAW Wind Turbine,Wind,ON,2013,0.8,#N/A,#N/A,#N/A,Port Elgin
+East Lake St. Clair Wind,Wind,ON,2013,99,#N/A,#N/A,#N/A,Chatham-Kent (Mitchell’s Bay)
+Erieau Wind,Wind,ON,2013,99,#N/A,#N/A,#N/A,Chatham-Kent (Blenheim)
+Gesner Wind Farm,Wind,ON,2013,10,#N/A,#N/A,#N/A,Chatham-Kent
+Port Dover & Nanticoke Wind Farm,Wind,ON,2013,104.4,#N/A,#N/A,#N/A,Haldimand and Norfolk Counties
+Summerhaven Wind Energy Centre,Wind,ON,2013,124.38,#N/A,#N/A,#N/A,Haldimand County
+WEICAN R&D Park Phase 1,Wind,PE,2013,10,#N/A,#N/A,#N/A,North Cape
+De l’Érable,Wind,QC,2013,100,#N/A,#N/A,#N/A,"Saint-Ferdinand, Sainte-Sophie-d’Halifax, Saint-Pierre-Baptiste"
+Des Moulins,Wind,QC,2013,135.7,#N/A,#N/A,#N/A,"Thetford Mines, Saint-Jean-de-Brébeuf and
+Kinnear’s Mills"
+Lac-Alfred (phase I),Wind,QC,2013,150,#N/A,#N/A,#N/A,"Gaspesie Peninsula, between the cities of Mont-Joli and Amqui"
+Lac-Alfred (phase II),Wind,QC,2013,150,#N/A,#N/A,#N/A,"Gaspesie Peninsula, between the cities of Mont-Joli and Amqui"
+Massif du Sud,Wind,QC,2013,153.8,#N/A,#N/A,#N/A,"St-Luc-de-Bellechasse, Buckland, St-Philémon and
+St-Magloire"
+New Richmond,Wind,QC,2013,67.8,#N/A,#N/A,#N/A,New Richmond
+Viger-Denonville,Wind,QC,2013,24.6,#N/A,#N/A,#N/A,"Saint-Paul-de-la-Croix, Saint-Épiphane (MRC de
+Rivière-du-Loup)"
+"Cowessess First Nation Wind and Storage
+Demonstration Project",Wind-Storage,SK,2013,0.8,#N/A,0.4,0.748,Cowessess
+Castle Rock Ridge,Wind,AB,2012,77,#N/A,#N/A,#N/A,Pincher Creek
+Halkirk Wind,Wind,AB,2012,149.4,#N/A,#N/A,#N/A,Town of Halkirk
+"BC Institute of Technology’s (BCIT) Energy
+OASIS Demonstration Project",Solar-Storage,BC,2012,#N/A,,0.3,0.5,Burnaby
+Quality Wind,Wind,BC,2012,142.2,#N/A,#N/A,#N/A,Tumbler Ridge
+St. Leon 2,Wind,MB,2012,16.5,#N/A,#N/A,#N/A,St. Leon
+Wind-Hydrogen-Diesel on Ramea Island,Energy Storage,NL,2012,#N/A,#N/A,,,Ramea Island
+Amherst I Wind Farm,Wind,NS,2012,31.5,#N/A,#N/A,#N/A,Cumberland County
+Fairmont Wind Farm,Wind,NS,2012,4.6,#N/A,#N/A,#N/A,Antigonish
+Lingan II (Gillis Cove II/Glace Bay),Wind,NS,2012,2.3,#N/A,#N/A,#N/A,Town of Lingan
+Fort Simpson Solar Energy Project,Solar,NT,2012,#N/A,0.1,#N/A,#N/A,Fort Simpson
+Diavik Mine Wind Farm,Wind,NT,2012,9.2,#N/A,#N/A,#N/A,300 kms northeast of Yellowknife
+2176047,Solar,ON,2012,#N/A,10,#N/A,#N/A,Brockville
+First Light 3,Solar,ON,2012,#N/A,10,#N/A,#N/A,Stone Mills
+Fort William First Nations Solar Farm,Solar,ON,2012,#N/A,10,#N/A,#N/A,Thunder Bay
+GS One-Parkway Solar Farm,Solar,ON,2012,#N/A,10,#N/A,#N/A,Osgoode
+"Moore Solar Energy Center (St. Clair Solar 1
+& 2)",Solar,ON,2012,#N/A,20,#N/A,#N/A,St. Clair Township
+Sombra (St. Clair Solar 3 & 4),Solar,ON,2012,#N/A,20,#N/A,#N/A,St. Clair Township
+Stardale,Solar,ON,2012,#N/A,27,#N/A,#N/A,East Hawkesbury Township
+Stone Mills Solar Park,Solar,ON,2012,#N/A,11.2,#N/A,#N/A,Napanee
+SunE Rutley,Solar,ON,2012,#N/A,10,#N/A,#N/A,Ingleside
+Conestogo Wind Energy Centre,Wind,ON,2012,22.92,#N/A,#N/A,#N/A,Arthur
+Grand Valley Wind Farm (phase I & II),Wind,ON,2012,19.8,#N/A,#N/A,#N/A,10 km north of the town of Grand Valley
+Mother Earth Renewable Energy Project,Wind,ON,2012,4,#N/A,#N/A,#N/A,"Manitoulin Island on M'Chigeeng First Nation
+reserve lands"
+Plateau I&II (Engie),Wind,ON,2012,18,#N/A,#N/A,#N/A,Melancthon
+Plateau III (Engie),Wind,ON,2012,9,#N/A,#N/A,#N/A,Melancthon
+Watford Wind Facility,Wind,ON,2012,10,#N/A,#N/A,#N/A,Lambton County (Brooke-Alvinston)
+Gros Morne (phase II),Wind,QC,2012,111,#N/A,#N/A,#N/A,Saint-Maxime-du-Mont-Louis & Sainte-Madeleine-de-la-rivière-Madeleine
+Le Plateau 1,Wind,QC,2012,138.6,#N/A,#N/A,#N/A,MRC d'Avingon
+Montérégie,Wind,QC,2012,101.2,#N/A,#N/A,#N/A,Montérégie
+Saint-Robert-Bellarmin,Wind,QC,2012,82,#N/A,#N/A,#N/A,Saint-Robert-Bellarmin and the MRC du Granit
+Wintering Hills,Wind,AB,2011,88,#N/A,#N/A,#N/A,21 kilometers southeast of Drumheller
+Dokie Wind Project,Wind,BC,2011,144,#N/A,#N/A,#N/A,Peace River Regional District
+St. Joseph Wind,Wind,MB,2011,138,#N/A,#N/A,#N/A,"St. Joseph, RM of Montcalm and Rhineland"
+Lameque Wind Power Project,Wind,NB,2011,45,#N/A,#N/A,#N/A,Gloucester County
+Glen Dhu,Wind,NS,2011,62.1,#N/A,#N/A,#N/A,near Merigomish
+Spiddle Hill Phase 2,Wind,NS,2011,0.8,#N/A,#N/A,#N/A,Colchester County
+Spiddle Hill Phase I,Wind,NS,2011,0.8,#N/A,#N/A,#N/A,"Spiddle Hill, n. Colchester County"
+Watts Wind Project (in Watts Section),Wind,NS,2011,1.5,#N/A,#N/A,#N/A,"2 hours east of Halifax on the Eastern Shore (in
+Watts Section)"
+Erie Ridge,Solar,ON,2011,#N/A,9.3,#N/A,#N/A,Ridgetown
+First Light 2,Solar,ON,2011,#N/A,7.8,#N/A,#N/A,Stone Mills
+Ryerse,Solar,ON,2011,#N/A,4,#N/A,#N/A,Port Dover
+Silvercreek,Solar,ON,2011,#N/A,10,#N/A,#N/A,Aylmer
+SkyPower Fort William,Solar,ON,2011,#N/A,10,#N/A,#N/A,Thunder Bay
+Smith Falls B,Solar,ON,2011,#N/A,10,#N/A,#N/A,Smiths Falls
+Thunder Bay Airport,Solar,ON,2011,#N/A,8.5,#N/A,#N/A,Thunder Bay
+Vanzwolf,Solar,ON,2011,#N/A,5,#N/A,#N/A,Rainy River
+Whitewater Solar / Scotch Bush Solar Farm,Solar,ON,2011,#N/A,2.95,#N/A,#N/A,Township of Whitewater Region
+"Amherstburg 1,2,3,4",Solar-Storage,ON,2011,#N/A,20,,,Amherstburg
+Comber Wind Farm,Wind,ON,2011,165.6,#N/A,#N/A,#N/A,Essex County
+Greenwich Renewable Energy Project,Wind,ON,2011,98.9,#N/A,#N/A,#N/A,Township of Dorion/District of Thunderbay
+Kent Breeze Wind Farm,Wind,ON,2011,20,#N/A,#N/A,#N/A,Chatham/Kent
+Kruger Energy Chatham Wind,Wind,ON,2011,101.2,#N/A,#N/A,#N/A,Chatham/Kent
+Pointes Aux Roches,Wind,ON,2011,48.6,#N/A,#N/A,#N/A,Town of Lakeshore/Lake St. Claire
+Raleigh Wind Energy Centre,Wind,ON,2011,78,#N/A,#N/A,#N/A,Chatham/Kent
+Gros Morne (phase I),Wind,QC,2011,100.6,#N/A,#N/A,#N/A,Saint-Maxime-du-Mont-Louis & Sainte-Madeleine-de-la-rivière-Madeleine
+Mont Louis,Wind,QC,2011,100.5,#N/A,#N/A,#N/A,Gaspesie
+Montagne-Sèche,Wind,QC,2011,58.4,#N/A,#N/A,#N/A,Cloridorne and Petite Vallée
+Red Lily Wind Energy Project,Wind,SK,2011,26.4,#N/A,#N/A,#N/A,Regional Municipality of Martin & Moosomin
+Ardenville Wind Farm,Wind,AB,2010,68,#N/A,#N/A,#N/A,Fort McLeod
+Ghost Pine Wind Farm,Wind,AB,2010,81.6,#N/A,#N/A,#N/A,"Trochu, Kneehill County"
+Summerview 2 Wind Farm,Wind,AB,2010,66,#N/A,#N/A,#N/A,Pincher Creek
+The Eye of the Wind Turbine,Wind,BC,2010,1.5,#N/A,#N/A,#N/A,"Grouse Mountain, Vancouver"
+Kent Hills 2,Wind,NB,2010,54,#N/A,#N/A,#N/A,"Albert County, Moncton"
+Ramea Wind-Diesel,Wind,NL,2010,0.3,#N/A,#N/A,#N/A,Island of Ramea
+Alderney 5 Energy Project,Energy Storage,NS,2010,#N/A,#N/A,,,Dartmouth
+Digby Neck Wind Farm,Wind,NS,2010,30,#N/A,#N/A,#N/A,Gulliver's Cove
+Maryvale,Wind,NS,2010,6,#N/A,#N/A,#N/A,"Maryvale, Antigonish County, NS"
+Nuttby Mountain Wind Farm,Wind,NS,2010,50.6,#N/A,#N/A,#N/A,"Nuttby Mountain, near Truro"
+Point Tupper Wind Farm Phase 2,Wind,NS,2010,22,#N/A,#N/A,#N/A,Richmond County
+13th Sideroad,Solar,ON,2010,#N/A,9,#N/A,#N/A,Langton
+Arnprior Solar,Solar,ON,2010,#N/A,23.4,#N/A,#N/A,Arnprior
+Elmsley Solar,Solar,ON,2010,#N/A,24,#N/A,#N/A,Lombardy
+Enbridge Tilbury,Solar,ON,2010,#N/A,5,#N/A,#N/A,Tilbury
+Parkers Corners' Solar Farm,Solar,ON,2010,#N/A,10,#N/A,#N/A,St. Isidore
+Sarnia Solar 1,Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sarnia Solar 3,Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sarnia Solar 4,Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sarnia Solar 6,Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sarnia Solar 7 (formerly Bluewater Solar 1),Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sarnia Solar 8 (formerly Bluewater Solar 2),Solar,ON,2010,#N/A,10,#N/A,#N/A,Sarnia
+Sault Ste Marie (SSM) 2,Solar,ON,2010,#N/A,30,#N/A,#N/A,Sault Ste. Marie
+Sault Ste Marie (SSM) 3,Solar,ON,2010,#N/A,10,#N/A,#N/A,Sault Ste. Marie
+Smith Falls A,Solar,ON,2010,#N/A,6,#N/A,#N/A,Smiths Falls
+St. Isidore A,Solar,ON,2010,#N/A,12,#N/A,#N/A,St. Isidore
+St. Isidore B,Solar,ON,2010,#N/A,12,#N/A,#N/A,St. Isidore
+Wainwright,Solar,ON,2010,#N/A,10,#N/A,#N/A,Oxdrift
+Arthur Wind Farm,Wind,ON,2010,10,#N/A,#N/A,#N/A,Chatham/Kent
+Gosfield Wind Facility,Wind,ON,2010,50.6,#N/A,#N/A,#N/A,"Town of Kingsville, Essex County"
+Harrow Wind Farm,Wind,ON,2010,39.6,#N/A,#N/A,#N/A,Essex County
+Talbot Wind Farm,Wind,ON,2010,98.9,#N/A,#N/A,#N/A,Chatham/Kent
+Thames River II Wind Farm,Wind,ON,2010,50,#N/A,#N/A,#N/A,Chatham/Kent
+Zurich,Wind,ON,2010,0.8,#N/A,#N/A,#N/A,West of Zurich
+Site de recherech de Nergica,Wind,QC,2010,4.1,#N/A,#N/A,#N/A,Nordique Expérimental en Éolien CORUS (SNEEC)
+Blue Trail,Wind,AB,2009,66,#N/A,#N/A,#N/A,Fort McLeod
+"Bella Coola Hydrogen Assisted Renewable
+Power (HARP) System",Energy Storage,BC,2009,#N/A,#N/A,0.1,,Bella Coola
+Bear Mountain Wind Park,Wind,BC,2009,102,#N/A,#N/A,#N/A,Peace River - just outside Dawson Creek
+Caribou Wind Park,Wind,NB,2009,99,#N/A,#N/A,#N/A,"Restigouch, Northumberland County"
+Fermeuse,Wind,NL,2009,27,#N/A,#N/A,#N/A,Fermeuse
+Dalhousie Mountain Project,Wind,NS,2009,51,#N/A,#N/A,#N/A,Dalhousie Mountain
+First Light 1,Solar,ON,2009,#N/A,7.5,#N/A,#N/A,Stone Mills
+Sarnia Solar 5,Solar,ON,2009,#N/A,10,#N/A,#N/A,Sarnia
+Sault Ste Marie (SSM) 1,Solar,ON,2009,#N/A,20,#N/A,#N/A,Sault Ste. Marie
+SunSaver1,Solar,ON,2009,#N/A,10,#N/A,#N/A,Innerkip
+Val Caron,Solar,ON,2009,#N/A,9.997,#N/A,#N/A,Hanmer
+Proof Line Wind Farm,Wind,ON,2009,6.6,#N/A,#N/A,#N/A,Lambton Shores
+Thames River I Wind Farm,Wind,ON,2009,40,#N/A,#N/A,#N/A,Chatham/Kent
+Underwood (Kincardine),Wind,ON,2009,181.5,#N/A,#N/A,#N/A,Municipality of Kincardine
+Wolfe Island Wind Farm,Wind,ON,2009,197.8,#N/A,#N/A,#N/A,Wolfe Island
+Summerside Project,Wind,PE,2009,12,#N/A,#N/A,#N/A,Summerside PEI
+West Cape phase 2,Wind,PE,2009,79.2,#N/A,#N/A,#N/A,"Prince County, PEI (near West Cape)"
+"Saint-Ulric, Saint-Léandre",Wind,QC,2009,133.3,#N/A,#N/A,#N/A,Matane
+Kent Hills 1,Wind,NB,2008,96,#N/A,#N/A,#N/A,"Albert County, Moncton"
+St. Lawrence,Wind,NL,2008,27,#N/A,#N/A,#N/A,St. Lawrence (Burin Peninsula)
+Hydro One Brampton Commercial Solar,Solar,ON,2008,#N/A,20.48,#N/A,#N/A,Brampton
+Sarnia Solar 2,Solar,ON,2008,#N/A,10,#N/A,#N/A,Sarnia
+Cruikshank Wind Farm Ltd.,Wind,ON,2008,8.25,#N/A,#N/A,#N/A,Ferndale / Tiverton
+Cultus Wind Project,Wind,ON,2008,9.9,#N/A,#N/A,#N/A,Norfolk County
+Frogmore Wind Project,Wind,ON,2008,9.9,#N/A,#N/A,#N/A,Norfolk County
+"Melancthon II EcoPower Centre/Amaranth
+(phase 2 of Melancthon)",Wind,ON,2008,132,#N/A,#N/A,#N/A,Shelburne
+Mohawk Point Wind farm,Wind,ON,2008,9.9,#N/A,#N/A,#N/A,Haldiman County
+Port Alma Wind farm,Wind,ON,2008,101.2,#N/A,#N/A,#N/A,Chatham/Kent
+Ravenswood Wind Farm,Wind,ON,2008,9.9,#N/A,#N/A,#N/A,Lambton Shores
+Clear Creek Wind Farm,Wind-Storage,ON,2008,9.9,#N/A,5,0.5,Norfolk County
+Carleton,Wind,QC,2008,109.5,#N/A,#N/A,#N/A,Carleton-sur-mer
+Kettles Hill phase II,Wind,AB,2007,54,#N/A,#N/A,#N/A,Pincher Creek
+Old Man River Wind Farm,Wind,AB,2007,3.6,#N/A,#N/A,#N/A,Pincher Creek
+Taber Wind Farm,Wind,AB,2007,85.1,#N/A,#N/A,#N/A,Taber
+Fitzpatrick Mountain phase 2,Wind,NS,2007,0.8,#N/A,#N/A,#N/A,"Fitzpatrick Mountain, Pictou County"
+Region of Waterloo EMS Building 20kW PV,Solar,ON,2007,#N/A,0.02,#N/A,#N/A,Cambridge
+Providence Bay / Spring Bay,Wind,ON,2007,1.6,#N/A,#N/A,#N/A,Central Manitoulin Township
+Ripley Wind Power Project,Wind,ON,2007,76,#N/A,#N/A,#N/A,Huron-Kinloss (Ripley)
+East Point Eastern Kings Wind Farm,Wind,PE,2007,30,#N/A,#N/A,#N/A,Souris-Elmira (King's County)
+Norway Wind Park,Wind,PE,2007,9,#N/A,#N/A,#N/A,Norway
+West Cape Wind Farm phase 1,Wind,PE,2007,19.8,#N/A,#N/A,#N/A,O'Leary
+L'Anse-à-Valleau,Wind,QC,2007,100.5,#N/A,#N/A,#N/A,Gaspé
+Chin Chute Wind Farm,Wind,AB,2006,30,#N/A,#N/A,#N/A,Taber
+Kettles Hill phase I,Wind,AB,2006,9,#N/A,#N/A,#N/A,Pincher Creek
+Soderglen Wind Farm,Wind,AB,2006,70.5,#N/A,#N/A,#N/A,Fort McLeod
+St. Leon Project - phase 1b,Wind,MB,2006,84.15,#N/A,#N/A,#N/A,St. Leon
+Digby Limited,Wind,NS,2006,0.8,#N/A,#N/A,#N/A,Digby
+Fitzpatrick Mountain phase 1,Wind,NS,2006,0.8,#N/A,#N/A,#N/A,"Fitzpatrick Mountain, Pictou County"
+Higgins Mountain,Wind,NS,2006,3.6,#N/A,#N/A,#N/A,"Higgins Mountain, Cumberland County"
+Lingan I,Wind,NS,2006,16.1,#N/A,#N/A,#N/A,"Lingan, Cape Breton"
+Marshville Limited,Wind,NS,2006,0.8,#N/A,#N/A,#N/A,Marshville
+Point Tupper Wind Farm Phase 1,Wind,NS,2006,0.8,#N/A,#N/A,#N/A,Point Tupper
+Springhill Wind Farm 2,Wind,NS,2006,0.9,#N/A,#N/A,#N/A,Springhill
+Tiverton Wind Farm,Wind,NS,2006,0.9,#N/A,#N/A,#N/A,Tiverton
+Erie Shores Wind Farm,Wind,ON,2006,99,#N/A,#N/A,#N/A,Port Burwell
+Ferndale (2),Wind,ON,2006,3.3,#N/A,#N/A,#N/A,Ferndale
+Kingsbridge 1 Wind Power,Wind,ON,2006,40,#N/A,#N/A,#N/A,Goderich
+Melancthon 1 Wind Plant,Wind,ON,2006,67.5,#N/A,#N/A,#N/A,Shelburne
+Prince Wind Energy Project,Wind,ON,2006,189,#N/A,#N/A,#N/A,Sault Ste. Marie
+Rosa Flora Greenhouses Ltd.,Wind,ON,2006,0.65,#N/A,#N/A,#N/A,Dunnville (Haldimand County)
+Baie-des-Sables,Wind,QC,2006,109.5,#N/A,#N/A,#N/A,Bais Saint Laurent
+Centennial Wind Power Facility,Wind,SK,2006,149.4,#N/A,#N/A,#N/A,Swift Current
+Drakes Landing Solar Community,Energy Storage,AB,2005,#N/A,#N/A,1.5,6,"Okotoks, AB"
+St. Leon Project - phase 1a,Wind,MB,2005,19.8,#N/A,#N/A,#N/A,St. Leon
+Brookfield Wind Farm,Wind,NS,2005,0.6,#N/A,#N/A,#N/A,Brookfield
+Glace Bay & Donkin,Wind,NS,2005,1.6,#N/A,#N/A,#N/A,Glace Bay
+Goodwood,Wind,NS,2005,0.6,#N/A,#N/A,#N/A,"Goodwood, Halifax County"
+Pubinco Point - phase 2,Wind,NS,2005,27,#N/A,#N/A,#N/A,Pubnico Point
+Springhill Wind Farm 1,Wind,NS,2005,1.2,#N/A,#N/A,#N/A,Springhill
+Mont Copper (phase 2),Wind,QC,2005,45,#N/A,#N/A,#N/A,Murdockville
+Mont Miller,Wind,QC,2005,54,#N/A,#N/A,#N/A,Murdockville
+MacLeod Flats,Wind,AB,2004,3,#N/A,#N/A,#N/A,Fort McLeod
+Magrath,Wind,AB,2004,30,#N/A,#N/A,#N/A,Magrath
+Optimist Wind Energy Wind Farm Project 2,Wind,AB,2004,0.75,#N/A,#N/A,#N/A,Pincher Creek
+Summerview 1 Wind Farm,Wind,AB,2004,68.4,#N/A,#N/A,#N/A,Pincher Creek
+Ramea,Wind,NL,2004,0.39,#N/A,#N/A,#N/A,Island of Ramea
+Pubinco Point - phase I,Wind,NS,2004,3.6,#N/A,#N/A,#N/A,Pubnico Point
+North Cape Wind Farm - phase 2,Wind,PE,2004,5.28,#N/A,#N/A,#N/A,Tignish
+Mont Copper,Wind,QC,2004,9,#N/A,#N/A,#N/A,Murdockville
+McBride Lake,Wind,AB,2003,75.24,#N/A,#N/A,#N/A,McBride Lake / Willow Creek
+Exhibition Place Turbine,Wind,ON,2003,0.75,#N/A,#N/A,#N/A,Toronto
+Cypress Wind Power Facility,Wind,SK,2003,4.62,#N/A,#N/A,#N/A,Gull Lake
+Waterton Wind Turbines 5,Wind,AB,2002,0.66,#N/A,#N/A,#N/A,Hillspring
+Grand Etang,Wind,NS,2002,0.66,#N/A,#N/A,#N/A,Inverness County
+Little Brook,Wind,NS,2002,0.6,#N/A,#N/A,#N/A,Little Brook
+Ferndale (1),Wind,ON,2002,1.8,#N/A,#N/A,#N/A,Ferndale
+Huron Wind Farm,Wind,ON,2002,9,#N/A,#N/A,#N/A,Tiverton
+Aeolus Wind Farm,Wind,PE,2002,3,#N/A,#N/A,#N/A,Prince County
+Castle River Wind Farm (phase 3),Wind,AB,2001,33.5,#N/A,#N/A,#N/A,Castle River
+Cowley North,Wind,AB,2001,19.5,#N/A,#N/A,#N/A,Pincher Creek; Cowley North; Sinnott
+Lundbreck Wind Farm,Wind,AB,2001,0.6,#N/A,#N/A,#N/A,Lundbreck / Pincher Creek
+McBride Lake East,Wind,AB,2001,0.66,#N/A,#N/A,#N/A,Fort McLeod
+Sinnott Wind Farm,Wind,AB,2001,6.5,#N/A,#N/A,#N/A,Pincher Creek
+Waterton Wind Turbines 4,Wind,AB,2001,0.66,#N/A,#N/A,#N/A,Hillspring
+Weather Dancer,Wind,AB,2001,0.9,#N/A,#N/A,#N/A,Pincher Creek
+Port Albert Wind Farm,Wind,ON,2001,0.66,#N/A,#N/A,#N/A,Huron County
+North Cape Wind Farm - phase 1,Wind,PE,2001,5.28,#N/A,#N/A,#N/A,Tignish
+Cypress Wind Power Facility,Wind,SK,2001,5.94,#N/A,#N/A,#N/A,Gull Lake
+Sunbridge,Wind,SK,2001,11.22,#N/A,#N/A,#N/A,Swift Current
+Castle River Wind Farm (phase 2),Wind,AB,2000,9.9,#N/A,#N/A,#N/A,Castle River
+Waterton Wind Turbines 3,Wind,AB,2000,0.66,#N/A,#N/A,#N/A,Hillspring
+Le Nordais (phase 1-Cap Chat),Wind,QC,1999,56.25,#N/A,#N/A,#N/A,"Cap Chat, Gaspesie"
+Le Nordais (phase 2 - Matane),Wind,QC,1999,42.75,#N/A,#N/A,#N/A,Matane
+Waterton Wind Turbines 1,Wind,AB,1998,0.6,#N/A,#N/A,#N/A,Hillspring
+Waterton Wind Turbines 2,Wind,AB,1998,1.2,#N/A,#N/A,#N/A,Hillspring
+Castle River Wind Farm (phase 1),Wind,AB,1997,0.6,#N/A,#N/A,#N/A,Cowley Ridge
+Tiverton Wind Turbine,Wind,ON,1995,0.6,#N/A,#N/A,#N/A,Tiverton (Bruce County)
+Optimist Wind Energy Wind Farm Project 1,Wind,AB,1993,0.15,#N/A,#N/A,#N/A,Pincher Creek
+Chappice Lake (CHP1),Solar,AB,2023,#N/A,14,#N/A,#N/A,Cypress County
+Deerfoot Solar Park (DFT1),Solar,AB,2023,#N/A,37,#N/A,#N/A,Calgary
+Empress Solar Park (EMP1),Solar,AB,2023,#N/A,39,#N/A,#N/A,Empress
+Joffre Solar 1 (JFS1),Solar,AB,2023,#N/A,25,#N/A,#N/A,Joffre
+Joffre Solar 2 (JFS2),Solar,AB,2023,#N/A,22,#N/A,#N/A,Joffre
+Michichi Creek (MCH1),Solar,AB,2023,#N/A,13,#N/A,#N/A,Drumheller
+Stavely (STV1),Solar,AB,2023,#N/A,17,#N/A,#N/A,Stavely
+Youngstown Solar (YNG1),Solar,AB,2023,#N/A,6,#N/A,#N/A,Youngstown
+Fox Coulee Solar,Solar,AB,2023,#N/A,75,#N/A,#N/A,Fox Coulee
+Saddlebrook Solar (SDL1),Solar,AB,2023,#N/A,81,#N/A,#N/A,Saddlebrook
+Barlow Solar (BLS1),Solar,AB,2022,#N/A,27,#N/A,#N/A,Barlow
